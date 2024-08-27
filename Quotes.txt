@@ -1,0 +1,670 @@
+"Imagination is more important than knowledge. Knowledge is limited. Imagination encircles the world." - Albert Einstein
+///
+"Life is like riding a bicycle. To keep your balance you must keep moving." - Albert Einstein
+///
+"Anyone who has never made a mistake has never tried anything new." - Albert Einstein
+///
+"I have no special talent. I am only passionately curious." - Albert Einstein
+///
+"A person who never made a mistake never tried anything new." - Albert Einstein
+///
+"Try not to become a man of success, but rather try to become a man of value." - Albert Einstein
+///
+"The important thing is not to stop questioning. Curiosity has its own reason for existence." - Albert Einstein
+///
+"In the middle of difficulty lies opportunity." - Albert Einstein
+///
+"Everything should be made as simple as possible, but not simpler." - Albert Einstein
+///
+"The only source of knowledge is experience." - Albert Einstein
+///
+"The true sign of intelligence is not knowledge but imagination." - Albert Einstein
+///
+"We cannot solve our problems with the same thinking we used when we created them." - Albert Einstein
+///
+"I speak to everyone in the same way, whether he is the garbage man or the president of the university." - Albert Einstein
+///
+"Logic will get you from A to B. Imagination will take you everywhere." - Albert Einstein
+///
+"Look deep into nature, and then you will understand everything better." - Albert Einstein
+///
+"Reality is merely an illusion, albeit a very persistent one." - Albert Einstein
+///
+"Weakness of attitude becomes weakness of character." - Albert Einstein
+///
+"If you can’t explain it simply, you don’t understand it well enough." - Albert Einstein
+///
+"No problem can be solved from the same level of consciousness that created it." - Albert Einstein
+///
+"Peace cannot be kept by force; it can only be achieved by understanding." - Albert Einstein
+///
+"Once we accept our limits, we go beyond them." - Albert Einstein
+///
+"The measure of intelligence is the ability to change." - Albert Einstein
+///
+"A ship is always safe at shore but that is not what it’s built for." - Albert Einstein
+///
+"Only a life lived for others is a life worthwhile." - Albert Einstein
+///
+"It has become appallingly obvious that our technology has exceeded our humanity." - Albert Einstein
+///
+"Anyone who doesn't take truth seriously in small matters cannot be trusted in large ones either." - Albert Einstein
+///
+"What is right is not always popular and what is popular is not always right." - Albert Einstein
+///
+"Great spirits have always encountered violent opposition from mediocre minds." - Albert Einstein
+///
+"Learn from yesterday, live for today, hope for tomorrow. The important thing is not to stop questioning." - Albert Einstein
+///
+"I am enough of an artist to draw freely upon my imagination. Imagination is more important than knowledge. Knowledge is limited. Imagination encircles the world." - Albert Einstein
+///
+"Music is the pleasure the human soul experiences from counting without being aware that it is counting." - Gottfried Wilhelm Leibniz
+///
+"It is unworthy of excellent men to lose hours like slaves in the labor of calculation which could safely be relegated to anyone else if machines were used." - Gottfried Wilhelm Leibniz
+///
+"Reality cannot be found except in One single source, because of the interconnection of all things with one another." - Gottfried Wilhelm Leibniz
+///
+"To love is to place our happiness in the happiness of another." - Gottfried Wilhelm Leibniz
+///
+"Every present is pregnant with its future." - Gottfried Wilhelm Leibniz
+///
+"Nature has established patterns originating in the return of events, but only for the most part." - Gottfried Wilhelm Leibniz
+///
+"Why is there something rather than nothing?" - Gottfried Wilhelm Leibniz
+///
+"Men act like brutes and there is no other remedy for this than to strengthen the mind and bind the passions." - Gottfried Wilhelm Leibniz
+///
+"Nothing is accomplished all at once, and it is one of the laws of nature that nature does not proceed by leaps." - Gottfried Wilhelm Leibniz
+///
+"Whatever is not eternal is eternally useless." - Gottfried Wilhelm Leibniz
+///
+"Justice is a kind of charity." - Gottfried Wilhelm Leibniz
+///
+"We live in the best of all possible worlds." - Gottfried Wilhelm Leibniz
+///
+"There are two kinds of truths: those of reasoning and those of fact. Truths of reasoning are necessary and their opposite is impossible; truths of fact are contingent and their opposite is possible." - Gottfried Wilhelm Leibniz
+///
+"One cannot conceive anything so strange and so implausible that it has not already been said by one philosopher or another." - Gottfried Wilhelm Leibniz
+///
+"He who understands Archimedes and Apollonius will admire less the achievements of the foremost men of later times." - Gottfried Wilhelm Leibniz
+///
+"When God calculates and thinks things through, the world is made." - Gottfried Wilhelm Leibniz
+///
+"There is a principle in the nature of things that the perfection of being and the happiness of life result from mutually beneficial harmony." - Gottfried Wilhelm Leibniz
+///
+"Philosophy is distinguished from other sciences by its degree of generality." - Gottfried Wilhelm Leibniz
+///
+"I do not want to be a ruler of souls. I want to lead lives." - Gottfried Wilhelm Leibniz
+///
+"To understand is to perceive patterns." - Gottfried Wilhelm Leibniz
+///
+"The present is big with the future." - Gottfried Wilhelm Leibniz
+///
+"If a question can be put at all, then it can also be answered." - Gottfried Wilhelm Leibniz
+///
+"Although the whole of this life were said to be nothing more than a dream and the physical world nothing but a phantasm, the dream would have to be admitted to have a certain truth." - Gottfried Wilhelm Leibniz
+///
+"All of the simple predicates or qualities of a complete concept are essential to it; so if one is removed, the subject is destroyed." - Gottfried Wilhelm Leibniz
+///
+"I hold that when God created the world, he chose it as the most agreeable to his wisdom." - Gottfried Wilhelm Leibniz
+///
+"Everything that is possible demands to exist." - Gottfried Wilhelm Leibniz
+///
+"Time is the order of possibilities." - Gottfried Wilhelm Leibniz
+///
+"The river comes from a source beyond itself." - Gottfried Wilhelm Leibniz
+///
+"It is in the nature of things that to every action there is always an opposite and equal reaction." - Gottfried Wilhelm Leibniz
+///
+"A curved line is the loveliest distance between two points." - Gottfried Wilhelm Leibniz
+///
+"I have nothing to offer but blood, toil, tears, and sweat." - Winston Churchill
+///
+"Success is not final, failure is not fatal: It is the courage to continue that counts." - Winston Churchill
+///
+"If you are going through hell, keep going." - Winston Churchill
+///
+"Courage is what it takes to stand up and speak; courage is also what it takes to sit down and listen." - Winston Churchill
+///
+"To improve is to change; to be perfect is to change often." - Winston Churchill
+///
+"A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty." - Winston Churchill
+///
+"We make a living by what we get, but we make a life by what we give." - Winston Churchill
+///
+"It is not enough that we do our best; sometimes we must do what is required." - Winston Churchill
+///
+"Success always demands a greater effort." - Winston Churchill
+///
+"Attitude is a little thing that makes a big difference." - Winston Churchill
+///
+"To each there comes in their lifetime a special moment when they are figuratively tapped on the shoulder and offered the chance to do a very special thing, unique to them and fitted to their talents." - Winston Churchill
+///
+"The price of greatness is responsibility." - Winston Churchill
+///
+"Never given in, never, never, never, never—in nothing, great or small, large or petty—never give in, except to convictions of honor and good sense." - Winston Churchill
+///
+"History will be kind to me for I intend to write it." - Winston Churchill
+///
+"You have enemies? Good. That means you've stood up for something, sometime in your life." - Winston Churchill
+///
+"Continuous effort—not strength or intelligence—is the key to unlocking our potential." - Winston Churchill
+///
+"A lie gets halfway around the world before the truth has a chance to get its pants on." - Winston Churchill
+///
+"You must put your head into the lion’s mouth if the performance is to be a success." - Winston Churchill
+///
+"It is a mistake to try to look too far ahead. The chain of destiny can only be grasped one link at a time." - Winston Churchill
+///
+"The farther backward you can look, the farther forward you are likely to see." - Winston Churchill
+///
+"The empires of the future are the empires of the mind." - Winston Churchill
+///
+"In war, resolution; in defeat, defiance; in victory, magnanimity; in peace, good will." - Winston Churchill
+///
+"We shape our dwellings, and afterwards our dwellings shape us." - Winston Churchill
+///
+"It is better to be making the news than taking it; to be an actor rather than a critic." - Winston Churchill
+///
+"Meeting Franklin Roosevelt was like opening your first bottle of champagne; knowing him was like drinking it." - Winston Churchill
+///
+"Dangers which are warded off by effective precautions and by timely and resolute action do not occur." - Winston Churchill
+///
+"What is adequacy? Adequacy is no standard at all." - Winston Churchill
+///
+"The problems of victory are more agreeable than those of defeat, but they are no less difficult." - Winston Churchill
+///
+"Moral of the Work. In war: resolution. In defeat: defiance. In victory: magnanimity. In peace: good will." - Winston Churchill
+///
+"Kites rise highest against the wind, not with it." - Winston Churchill  
+///
+"I was obliged to be industrious. Whoever is equally industrious will succeed equally well." - Johann Sebastian Bach
+///
+"The aim and final end of all music should be none other than the glory of God and the refreshment of the soul." - Johann Sebastian Bach
+///
+"It's easy to play any musical instrument: all you have to do is touch the right key at the right time and the instrument will play itself." - Johann Sebastian Bach
+///
+"Without my morning coffee, I'm just like a dried-up piece of roast goat." - Johann Sebastian Bach
+///
+"I worked hard. Anyone who works as hard as I did can achieve the same results." - Johann Sebastian Bach
+///
+"The secret of getting ahead is getting started." - Mark Twain
+///
+"It’s not the size of the dog in the fight, it’s the size of the fight in the dog." - Mark Twain
+///
+"If you tell the truth, you don't have to remember anything." - Mark Twain
+///
+"The reports of my death are greatly exaggerated." - Mark Twain
+///
+"Kindness is the language which the deaf can hear and the blind can see." - Mark Twain
+///
+"Courage is resistance to fear, mastery of fear, not absence of fear." - Mark Twain
+///
+"Whenever you find yourself on the side of the majority, it is time to pause and reflect." - Mark Twain
+///
+"The man who does not read has no advantage over the man who cannot read." - Mark Twain
+///
+"Good friends, good books, and a sleepy conscience: this is the ideal life." - Mark Twain
+///
+"The lack of money is the root of all evil." - Mark Twain
+///
+"Truth is stranger than fiction, but it is because Fiction is obliged to stick to possibilities; Truth isn’t." - Mark Twain
+///
+"Age is an issue of mind over matter. If you don’t mind, it doesn’t matter." - Mark Twain
+///
+"Never put off till tomorrow what may be done day after tomorrow just as well." - Mark Twain
+///
+"Travel is fatal to prejudice, bigotry, and narrow-mindedness." - Mark Twain
+///
+"The best way to cheer yourself up is to try to cheer somebody else up." - Mark Twain
+///
+"A lie can travel halfway around the world while the truth is putting on its shoes." - Mark Twain
+///
+"All you need in this life is ignorance and confidence, and then success is sure." - Mark Twain
+///
+"To succeed in life, you need two things: ignorance and confidence." - Mark Twain
+///
+"It is better to keep your mouth closed and let people think you are a fool than to open it and remove all doubt." - Mark Twain
+///
+"Don’t go around saying the world owes you a living. The world owes you nothing. It was here first." - Mark Twain
+///
+"You can’t depend on your eyes when your imagination is out of focus." - Mark Twain
+///
+"Wrinkles should merely indicate where the smiles have been." - Mark Twain
+///
+"The fear of death follows from the fear of life. A man who lives fully is prepared to die at any time." - Mark Twain
+///
+"Forgiveness is the fragrance that the violet sheds on the heel that has crushed it." - Mark Twain
+///
+"Keep away from people who try to belittle your ambitions. Small people always do that, but the really great make you feel that you, too, can become great." - Mark Twain
+///
+"Let us endeavor so to live that when we come to die even the undertaker will be sorry." - Mark Twain
+///
+"With courage you will dare to take risks, have the strength to be compassionate, and the wisdom to be humble. Courage is the foundation of integrity." - Mark Twain
+///
+"Anger is an acid that can do more harm to the vessel in which it is stored than to anything on which it is poured." - Mark Twain
+///
+"A clear conscience is the sure sign of a bad memory." - Mark Twain
+///
+"It’s good sportsmanship to not pick up lost golf balls while they are still rolling." - Mark Twain
+///
+"The only true wisdom is in knowing you know nothing." - Socrates
+///
+"I cannot teach anybody anything. I can only make them think." - Socrates
+///
+"To know thyself is the beginning of wisdom." - Socrates
+///
+"An unexamined life is not worth living." - Socrates
+///
+"There is only one good, knowledge, and one evil, ignorance." - Socrates
+///
+"Be as you wish to seem." - Socrates
+///
+"True knowledge exists in knowing that you know nothing." - Socrates
+///
+"The secret of change is to focus all of your energy not on fighting the old, but on building the new." - Socrates
+///
+"Understanding a question is half an answer." - Socrates
+///
+"Wisdom begins in wonder." - Socrates
+///
+"He is richest who is content with the least, for content is the wealth of nature." - Socrates
+///
+"The greatest way to live with honor in this world is to be what we pretend to be." - Socrates
+///
+"The mind is everything; what you think, you become." - Socrates
+///
+"Prefer knowledge to wealth, for the one is transitory, the other perpetual." - Socrates
+///
+"Let him who would move the world first move himself." - Socrates
+///
+"To find yourself, think for yourself." - Socrates
+///
+"The way to gain a good reputation is to endeavor to be what you desire to appear." - Socrates
+///
+"Beware the barrenness of a busy life." - Socrates
+///
+"False words are not only evil in themselves, but they infect the soul with evil." - Socrates
+///
+"Envy is the ulcer of the soul." - Socrates
+///
+"I am not an Athenian, nor a Greek, but a citizen of the world." - Socrates
+///
+"Those who are hardest to love need it the most." - Socrates
+///
+"Wonder is the beginning of wisdom." - Socrates
+///
+"By all means, marry. If you get a good wife, you'll become happy; if you get a bad one, you'll become a philosopher." - Socrates
+///
+"Every action has its pleasures and its price." - Socrates
+///
+"Death may be the greatest of all human blessings." - Socrates
+///
+"Sometimes you put walls up not to keep people out, but to see who cares enough to break them down." - Socrates
+///
+"From the deepest desires often come the deadliest hate." - Socrates
+///
+"To move the world we must move ourselves." - Socrates
+///
+"If a man is proud of his wealth, he should not be praised until it is known how he employs it." - Socrates
+///
+"He who has a why to live can bear almost any how." - Friedrich Nietzsche
+///
+"That which does not kill us makes us stronger." - Friedrich Nietzsche
+///
+"To live is to suffer, to survive is to find some meaning in the suffering." - Friedrich Nietzsche
+///
+"There are no facts, only interpretations." - Friedrich Nietzsche
+///
+"Without music, life would be a mistake." - Friedrich Nietzsche
+///
+"He who fights with monsters should be careful lest he thereby become a monster." - Friedrich Nietzsche
+///
+"And if you gaze long enough into an abyss, the abyss will gaze back into you." - Friedrich Nietzsche
+///
+"The individual has always had to struggle to keep from being overwhelmed by the tribe." - Friedrich Nietzsche
+///
+"We love life, not because we are used to living but because we are used to loving." - Friedrich Nietzsche
+///
+"The advantage of a bad memory is that one enjoys several times the same good things for the first time." - Friedrich Nietzsche
+///
+"The doer alone learneth." - Friedrich Nietzsche
+///
+"Sometimes people don’t want to hear the truth because they don’t want their illusions destroyed." - Friedrich Nietzsche
+///
+"There is always some madness in love. But there is also always some reason in madness." - Friedrich Nietzsche
+///
+"You must have chaos within you to give birth to a dancing star." - Friedrich Nietzsche
+///
+"What does your conscience say? — 'You should become the person you are.'" - Friedrich Nietzsche
+///
+"One must give value to their existence by behaving as if one's very existence were a work of art." - Friedrich Nietzsche
+///
+"The man of knowledge must be able not only to love his enemies but also to hate his friends." - Friedrich Nietzsche
+///
+"All truly great thoughts are conceived by walking." - Friedrich Nietzsche
+///
+"In every real man, a child is hidden that wants to play." - Friedrich Nietzsche
+///
+"No one can construct for you the bridge upon which precisely you must cross the stream of life, no one but you yourself alone." - Friedrich Nietzsche
+///
+"There are no beautiful surfaces without a terrible depth." - Friedrich Nietzsche
+///
+"A thought, even a possibility, can shatter and transform us." - Friedrich Nietzsche
+///
+"We have art in order not to die of the truth." - Friedrich Nietzsche
+///
+"To be afraid is to behave as if the truth were not true." - Friedrich Nietzsche
+///
+"Ultimately, it is the desire, not the desired, that we love." - Friedrich Nietzsche
+///
+"When one has much to put into them, a day has a hundred pockets." - Friedrich Nietzsche
+///
+"The snake which cannot cast its skin has to die. As well the minds which are prevented from changing their opinions; they cease to be mind." - Friedrich Nietzsche
+///
+"The essence of all beautiful art, all great art, is gratitude." - Friedrich Nietzsche
+///
+"Is man merely a mistake of God's? Or God merely a mistake of man's?" - Friedrich Nietzsche
+///
+"He who climbs upon the highest mountains laughs at all tragedies, real or imaginary." - Friedrich Nietzsche
+///
+"The best way to predict your future is to create it." - Abraham Lincoln
+///
+"Whatever you are, be a good one." - Abraham Lincoln
+///
+"Do I not destroy my enemies when I make them my friends?" - Abraham Lincoln
+///
+"Folks are usually about as happy as they make their minds up to be." - Abraham Lincoln
+///
+"America will never be destroyed from the outside. If we falter and lose our freedoms, it will be because we destroyed ourselves." - Abraham Lincoln
+///
+"I am a slow walker, but I never walk back." - Abraham Lincoln
+///
+"I would rather be a little nobody, than to be an evil somebody." - Abraham Lincoln
+///
+"My concern is not whether God is on our side; my greatest concern is to be on God’s side, for God is always right." - Abraham Lincoln
+///
+"I am not bound to win, but I am bound to be true. I am not bound to succeed, but I am bound to live up to what light I have." - Abraham Lincoln
+///
+"Those who deny freedom to others, deserve it not for themselves." - Abraham Lincoln
+///
+"Character is like a tree and reputation like a shadow. The shadow is what we think of it; the tree is the real thing." - Abraham Lincoln
+///
+"Give me six hours to chop down a tree and I will spend the first four sharpening the axe." - Abraham Lincoln
+///
+"Those who look for the bad in people will surely find it." - Abraham Lincoln
+///
+"In the end, it’s not the years in your life that count. It’s the life in your years." - Abraham Lincoln
+///
+"Better to remain silent and be thought a fool than to speak out and remove all doubt." - Abraham Lincoln
+///
+"I do the very best I know how, the very best I can, and I mean to keep on doing so until the end." - Abraham Lincoln
+///
+"All I have learned, I learned from books." - Abraham Lincoln
+///
+"The ballot is stronger than the bullet." - Abraham Lincoln
+///
+"Most folks are as happy as they make up their minds to be." - Abraham Lincoln
+///
+"You can tell the greatness of a man by what makes him angry." - Abraham Lincoln
+///
+"No man has a good enough memory to be a successful liar." - Abraham Lincoln
+///
+"There are no bad pictures; that's just how your face looks sometimes." - Abraham Lincoln
+///
+"I have always found that mercy bears richer fruits than strict justice." - Abraham Lincoln
+///
+"Every man's happiness is his own responsibility." - Abraham Lincoln
+///
+"As I would not be a slave, so I would not be a master. This expresses my idea of democracy." - Abraham Lincoln
+///
+"That some achieve great success, is proof to all that others can achieve it as well." - Abraham Lincoln
+///
+"When I do good, I feel good. When I do bad, I feel bad. That’s my religion." - Abraham Lincoln
+///
+"We can complain because rose bushes have thorns, or rejoice because thorns have roses." - Abraham Lincoln
+///
+"The better part of one's life consists of his friendships." - Abraham Lincoln
+///
+"I don't like that man. I must get to know him better." - Abraham Lincoln
+///
+"Tell me and I forget, teach me and I may remember, involve me and I learn." - Benjamin Franklin
+///
+"An investment in knowledge pays the best interest." - Benjamin Franklin
+///
+"By failing to prepare, you are preparing to fail." - Benjamin Franklin
+///
+"Well done is better than well said." - Benjamin Franklin
+///
+"Do not fear mistakes. You will know failure. Continue to reach out." - Benjamin Franklin
+///
+"The only thing more expensive than education is ignorance." - Benjamin Franklin
+///
+"Lost time is never found again." - Benjamin Franklin
+///
+"It takes many good deeds to build a good reputation, and only one bad one to lose it." - Benjamin Franklin
+///
+"Early to bed and early to rise makes a man healthy, wealthy, and wise." - Benjamin Franklin
+///
+"A penny saved is a penny earned." - Benjamin Franklin
+///
+"They who can give up essential liberty to obtain a little temporary safety deserve neither liberty nor safety." - Benjamin Franklin
+///
+"In this world nothing can be said to be certain, except death and taxes." - Benjamin Franklin
+///
+"Energy and persistence conquer all things." - Benjamin Franklin
+///
+"Without continual growth and progress, such words as improvement, achievement, and success have no meaning." - Benjamin Franklin
+///
+"Genius without education is like silver in the mine." - Benjamin Franklin
+///
+"Hide not your talents, they for use were made, What's a sundial in the shade?" - Benjamin Franklin
+///
+"When you're finished changing, you're finished." - Benjamin Franklin
+///
+"Wine is constant proof that God loves us and loves to see us happy." - Benjamin Franklin
+///
+"The Constitution only gives people the right to pursue happiness. You have to catch it yourself." - Benjamin Franklin
+///
+"For every minute spent in organizing, an hour is earned." - Benjamin Franklin
+///
+"Be at war with your vices, at peace with your neighbors, and let every new year find you a better man." - Benjamin Franklin
+///
+"He that can have patience can have what he will." - Benjamin Franklin
+///
+"A place for everything, everything in its place." - Benjamin Franklin
+///
+"If you would be loved, love, and be loveable." - Benjamin Franklin
+///
+"To succeed, jump as quickly at opportunities as you do at conclusions." - Benjamin Franklin
+///
+"Beware of little expenses. A small leak will sink a great ship." - Benjamin Franklin
+///
+"Honesty is the best policy." - Benjamin Franklin
+///
+"When in doubt, don’t." - Benjamin Franklin
+///
+"Life’s tragedy is that we get old too soon and wise too late." - Benjamin Franklin
+///
+"You may delay, but time will not." - Benjamin Franklin
+///
+"Simplicity is the ultimate sophistication." - Leonardo da Vinci
+///
+"Learning never exhausts the mind." - Leonardo da Vinci
+///
+"Art is never finished, only abandoned." - Leonardo da Vinci
+///
+"The greatest deception men suffer is from their own opinions." - Leonardo da Vinci
+///
+"I love those who can smile in trouble, who can gather strength from distress, and grow brave by reflection." - Leonardo da Vinci
+///
+"Where the spirit does not work with the hand, there is no art." - Leonardo da Vinci
+///
+"Nothing strengthens authority so much as silence." - Leonardo da Vinci
+///
+"Wisdom is the daughter of experience." - Leonardo da Vinci
+///
+"There are three classes of people: those who see, those who see when they are shown, those who do not see." - Leonardo da Vinci
+///
+"Time abides long enough for those who make use of it." - Leonardo da Vinci
+///
+"All our knowledge has its origins in our perceptions." - Leonardo da Vinci
+///
+"The painter has the Universe in his mind and hands." - Leonardo da Vinci
+///
+"I have been impressed with the urgency of doing. Knowing is not enough; we must apply. Being willing is not enough; we must do." - Leonardo da Vinci
+///
+"A painter should begin every canvas with a wash of black, because all things in nature are dark except where exposed by the light." - Leonardo da Vinci
+///
+"Once you have tasted the taste of sky, you will forever look up." - Leonardo da Vinci
+///
+"The noblest pleasure is the joy of understanding." - Leonardo da Vinci
+///
+"While I thought that I was learning how to live, I have been learning how to die." - Leonardo da Vinci
+///
+"The smallest feline is a masterpiece." - Leonardo da Vinci
+///
+"A well-spent day brings happy sleep." - Leonardo da Vinci
+///
+"I awoke, only to see that the rest of the world is still asleep." - Leonardo da Vinci
+///
+"As a well-spent day brings happy sleep, so a life well spent brings happy death." - Leonardo da Vinci
+///
+"He who loves practice without theory is like the sailor who boards ship without a rudder and compass and never knows where he may cast." - Leonardo da Vinci
+///
+"Iron rusts from disuse; water loses its purity from stagnation... even so does inaction sap the vigor of the mind." - Leonardo da Vinci
+///
+"The truth of things is the chief nutriment of superior intellects." - Leonardo da Vinci
+///
+"All sciences are vain and full of errors that are not born of Experience, the mother of all Knowledge." - Leonardo da Vinci
+///
+"It is easier to resist at the beginning than at the end." - Leonardo da Vinci
+///
+"Nature is the source of all true knowledge. She has her own logic, her own laws, she has no effect without cause nor invention without necessity." - Leonardo da Vinci
+///
+"Patience serves as a protection against wrongs as clothes do against cold." - Leonardo da Vinci
+///
+"I have offended God and mankind because my work didn't reach the quality it should have." - Leonardo da Vinci
+///
+"In rivers, the water that you touch is the last of what has passed and the first of that which comes; so with present time." - Leonardo da Vinci
+///
+"The journey of a thousand miles begins with one step." - Lao Tzu
+///
+"Knowing others is intelligence; knowing yourself is true wisdom. Mastering others is strength; mastering yourself is true power." - Lao Tzu
+///
+"To the mind that is still, the whole universe surrenders." - Lao Tzu
+///
+"When I let go of what I am, I become what I might be." - Lao Tzu
+///
+"Be content with what you have; rejoice in the way things are. When you realize there is nothing lacking, the whole world belongs to you." - Lao Tzu
+///
+"Nature does not hurry, yet everything is accomplished." - Lao Tzu
+///
+"A good traveler has no fixed plans and is not intent on arriving." - Lao Tzu
+///
+"Silence is a source of great strength." - Lao Tzu
+///
+"The truth is not always beautiful, nor beautiful words the truth." - Lao Tzu
+///
+"Knowing how to yield is strength." - Lao Tzu
+///
+"Those who know do not speak. Those who speak do not know." - Lao Tzu
+///
+"The wise man is one who knows what he does not know." - Lao Tzu
+///
+"The best fighter is never angry." - Lao Tzu
+///
+"Manifest plainness, embrace simplicity, reduce selfishness, have few desires." - Lao Tzu
+///
+"Do the difficult things while they are easy and do the great things while they are small." - Lao Tzu
+///
+"He who knows that enough is enough will always have enough." - Lao Tzu
+///
+"Respond intelligently even to unintelligent treatment." - Lao Tzu
+///
+"Great acts are made up of small deeds." - Lao Tzu
+///
+"Care about what other people think and you will always be their prisoner." - Lao Tzu
+///
+"Life and death are one thread, the same line viewed from different sides." - Lao Tzu
+///
+"Stop thinking, and end your problems." - Lao Tzu
+///
+"If you would take, you must first give, this is the beginning of intelligence." - Lao Tzu
+///
+"The snow goose need not bathe to make itself white. Neither need you do anything but be yourself." - Lao Tzu
+///
+"The wise man does not lay up his own treasures. The more he gives to others, the more he has for his own." - Lao Tzu
+///
+"He who is contented is rich." - Lao Tzu
+///
+"If you realize that all things change, there is nothing you will try to hold on to." - Lao Tzu
+///
+"Act without expectation." - Lao Tzu
+///
+"Health is the greatest possession. Contentment is the greatest treasure. Confidence is the greatest friend." - Lao Tzu
+///
+"Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love." - Lao Tzu
+///
+"The wise man does not compete; he knows that life supports him because he supports all life." - Lao Tzu
+///
+"It does not matter how slowly you go as long as you do not stop." - Confucius
+///
+"Our greatest glory is not in never falling, but in rising every time we fall." - Confucius
+///
+"Real knowledge is to know the extent of one's ignorance." - Confucius
+///
+"The man who moves a mountain begins by carrying away small stones." - Confucius
+///
+"When anger rises, think of the consequences." - Confucius
+///
+"Silence is a true friend who never betrays." - Confucius
+///
+"Choose a job you love, and you will never have to work a day in your life." - Confucius
+///
+"Before you embark on a journey of revenge, dig two graves." - Confucius
+///
+"To see what is right and not do it is the want of courage." - Confucius
+///
+"The superior man understands what is right; the inferior man understands what will sell." - Confucius
+///
+"Respect yourself and others will respect you." - Confucius
+///
+"He who learns but does not think, is lost! He who thinks but does not learn is in great danger." - Confucius
+///
+"Wheresoever you go, go with all your heart." - Confucius
+///
+"To know what you know and what you do not know, that is true knowledge." - Confucius
+///
+"Humility is the solid foundation of all the virtues." - Confucius
+///
+"Life is really simple, but we insist on making it complicated." - Confucius
+///
+"You cannot open a book without learning something." - Confucius
+///
+"The will to win, the desire to succeed, the urge to reach your full potential... these are the keys that will unlock the door to personal excellence." - Confucius
+///
+"Success depends upon previous preparation, and without such preparation there is sure to be failure." - Confucius
+///
+"He who knows all the answers has not been asked all the questions." - Confucius
+///
+"Study the past if you would define the future." - Confucius
+///
+"When you have faults, do not fear to abandon them." - Confucius
+///
+"The superior man is modest in his speech, but exceeds in his actions." - Confucius
+///
+"Never impose on others what you would not choose for yourself." - Confucius
+///
+"You can cheat an honest man but not make a fool of him." - Confucius
+///
+"To be wronged is nothing unless you continue to remember it." - Confucius
+///
+"Wisdom, compassion, and courage are the three universally recognized moral qualities of men." - Confucius
+///
+"Forget injuries, never forget kindnesses." - Confucius
+///
+"The strength of a nation derives from the integrity of the home." - Confucius
+///
+"Better a diamond with a flaw than a pebble without." - Confucius
+///
