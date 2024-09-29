@@ -84,7 +84,7 @@
 ///
 "There are two kinds of truths: those of reasoning and those of fact. Truths of reasoning are necessary and their opposite is impossible; truths of fact are contingent and their opposite is possible." - Gottfried Wilhelm Leibniz
 ///
-"One cannot conceive anything so strange and so implausible that it has not already been said by one philosopher or another." - Gottfried Wilhelm Leibniz
+"One cannot conceive anything so strange and so implausible that it has not already been said by one philosopher or another."  Gottfried Wilhelm Leibniz
 ///
 "He who understands Archimedes and Apollonius will admire less the achievements of the foremost men of later times." - Gottfried Wilhelm Leibniz
 ///
@@ -184,7 +184,7 @@
 ///
 "It's easy to play any musical instrument: all you have to do is touch the right key at the right time and the instrument will play itself." - Johann Sebastian Bach
 ///
-"Without my morning coffee, I'm just like a dried-up piece of roast goat." - Johann Sebastian Bach
+"Without my morning coffee, I'm just like a dried up piece of roast goat." - Johann Sebastian Bach
 ///
 "I worked hard. Anyone who works as hard as I did can achieve the same results." - Johann Sebastian Bach
 ///
@@ -214,7 +214,7 @@
 ///
 "Never put off till tomorrow what may be done day after tomorrow just as well." - Mark Twain
 ///
-"Travel is fatal to prejudice, bigotry, and narrow-mindedness." - Mark Twain
+"Travel is fatal to prejudice, bigotry, and narrow mindedness." - Mark Twain
 ///
 "The best way to cheer yourself up is to try to cheer somebody else up." - Mark Twain
 ///
@@ -524,11 +524,11 @@
 ///
 "The smallest feline is a masterpiece." - Leonardo da Vinci
 ///
-"A well-spent day brings happy sleep." - Leonardo da Vinci
+"A well spent day brings happy sleep." - Leonardo da Vinci
 ///
 "I awoke, only to see that the rest of the world is still asleep." - Leonardo da Vinci
 ///
-"As a well-spent day brings happy sleep, so a life well spent brings happy death." - Leonardo da Vinci
+"As a well spent day brings happy sleep, so a life well spent brings happy death." - Leonardo da Vinci
 ///
 "He who loves practice without theory is like the sailor who boards ship without a rudder and compass and never knows where he may cast." - Leonardo da Vinci
 ///
