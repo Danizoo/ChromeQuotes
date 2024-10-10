@@ -1,0 +1,212 @@
+.header {
+    position: fixed;
+    /* top: 10px; */
+    /* right: 10px; */
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+    right: 0;
+    left: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* gap: 15px; */
+    z-index: 4; /* Ensure it stays on top of other content */
+}
+
+#header-right {
+display: flex;
+align-items: center;
+gap: 15px;
+flex-direction: row;
+justify-content: flex-end;
+}
+
+#header-left {
+display: flex;
+align-items: center;
+/* gap: 15px; */
+flex-direction: row;
+justify-content: flex-start;
+}
+
+/* .gmail-link img, .utils-icon, .account-icon {
+width: 24px;
+height: auto;
+} */
+
+.top-link {
+width: 24px; /* Adjust size as needed */
+height: auto;
+margin-right: 20px;
+font-size: 14px;
+text-decoration: none;
+color: white;
+transition: color 0.4s ease;
+}
+.top-link:hover {
+cursor: pointer;
+text-decoration: underline;
+}
+
+.google-utils {
+position: relative;
+}
+  
+#utils-icon-div {
+    text-decoration: none;
+    padding: 14px;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+}
+/* #utils-icon-div:hover {
+    background-color: rgba(255, 255, 255, 0.3);
+    cursor: pointer;
+} */
+.utils-icon-div-dark:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+    cursor: pointer;
+}
+.utils-icon-div-light:hover {
+    background-color: rgba(140, 140, 140, 0.1);
+    cursor: pointer;
+}
+#utils-icon {
+    text-decoration: none;
+    width: 18px;
+    height: 18px;
+    filter: invert(0) brightness(100) saturate(100%);
+    transition: filter 0.4s ease;
+}
+.utils-menu {
+    display: none;
+    flex-direction: column;
+    position: absolute;
+    top: 50px;
+    right: 0;
+    height: 400px;
+    overflow-y: scroll;
+    background-color: white;
+    /* border: 1px solid #ddd; */
+    border-top-left-radius: 7%;
+    border-bottom-left-radius: 7%;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    z-index: 4;
+    list-style-type: none;
+    padding: 20px;
+    
+    /* scrollbar-width: auto; */ /* Options: auto | thin */
+    /* scrollbar-color: #888 #f1f1f1; */ /* Thumb color and track color */
+}
+
+.utils-menu::-webkit-scrollbar {
+    width: 10px; /* Width of the scrollbar */
+}
+
+.utils-menu::-webkit-scrollbar-track {
+    background: #f1f1f1; /* Background of the scrollbar track */
+}
+
+.utils-menu::-webkit-scrollbar-thumb {
+    background: #a3a3a3; /* Color of the scrollbar thumb */
+    border-radius: 0px; /* Round the edges of the thumb */
+}
+
+.utils-menu::-webkit-scrollbar-thumb:hover {
+    background: #6e6e6e; /* Color of the thumb on hover */
+}
+
+.utils-menu-row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+
+/* .utils-menu {
+    display: block;
+    padding: 10px;
+    text-decoration: none;
+    color: #333;
+} */
+
+.menu-item {
+    display: flex;
+    height: 75px;
+    width: 75px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    vertical-align: top;
+    list-style-type: none;
+    text-decoration: none;
+    color: #333;
+    padding: 15px;
+    margin: 2px;
+    border-radius: 28px;
+    display: inline-block;
+
+    /* transition: transform .2s cubic-bezier(.333,0,0,1); */
+    
+}
+
+.menu-item a {
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+
+.menu-item-text {
+    display: flex;
+    text-decoration: none;
+    justify-content: center;
+    align-items: center;
+    font-size: 15px;
+}
+
+.utils-menu-icon {
+    width: 50px;
+    height: 50px;
+    }
+
+
+.utils-menu .menu-item:hover {
+    background-color: #e9eef6
+    }
+
+#settings-div {
+justify-content: center;
+align-items: center;
+align-content: center;
+padding: 8px;
+width: 37px;
+height: 37px;
+border-radius: 50%;
+}
+/* #settings-div:hover {
+background-color: rgba(255, 255, 255, 0.3);
+cursor: pointer;
+} */
+.settings-div-dark:hover {
+background-color: rgba(255, 255, 255, 0.1);
+cursor: pointer;
+}
+.settings-div-light:hover {
+background-color: rgba(140, 140, 140, 0.1);
+cursor: pointer;
+}
+
+#settings {
+align-self: center;
+width: 37px;    
+height: 37px;
+filter: invert(0) brightness(100) saturate(100%);
+transition: filter 0.4s ease;
+}
+#settings:hover {
+/* content: url('Assets/Settings_full_tilted.png'); */
+filter: invert(1);
+}
+

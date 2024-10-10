@@ -1,0 +1,26 @@
+{
+  "manifest_version": 3,
+  "name": "Random Quote New Tab",
+  "version": "1.0",
+  "description": "Displays a random quote and background every time a new tab is opened.",
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  },
+  "permissions": [
+    "storage",
+    "topSites",
+    "activeTab"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"]
+    }
+  ]
+}

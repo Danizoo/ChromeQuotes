@@ -1,0 +1,47 @@
+@font-face {
+    font-family: 'Bellefair';
+    src: url('../Font/Bellefair-Regular.ttf') format('woff2'),
+         url('../Font/Bellefair-Regular.ttf') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    display: flex;
+    /* justify-content: center; */
+    flex-direction: column;
+    /* comment this for left alignment */
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    /* background-color: #f0f0f0; */
+    font-family: Arial, sans-serif;
+    background-size: contain; /* Fill the screen */
+    background-position: center; /* Center the background */
+    background-repeat: no-repeat; /* Prevent repeating the background */
+/*     overflow-x: hidden;
+    overflow-y: hidden; */
+    /* background-image: url(/Assets/BGs/BG2.jpeg);
+    background-size: cover; */
+}
+
+#overlay {
+    position: fixed; /* Cover the whole screen */
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.7);
+    /* background-color: rgba(0, 0, 0, 0.7); */ /* Semi-transparent white */
+    z-index: 1; /* Ensure it sits behind the quote container */
+    transition: background-color 0.4s ease;
+}
+
+#floatingDotsCanvas {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  z-index: 1;
+}
