@@ -1,0 +1,50 @@
+#footer {
+    z-index: 4;
+    position: absolute;
+    bottom: 20px;
+    width: 97%;
+    display: flex;
+    justify-content: space-between;
+  
+  }
+  
+  #footer-left {
+    display: flex;
+    justify-content: flex-start;
+    font-size: 12px;
+    /* opacity: 0.75; */
+  }
+  
+  #footer-right {
+    display: flex;
+    justify-content: flex-end;
+    font-size: 14px;
+  }
+  
+  .footer-heart {
+    width: 14px;
+    height: 14px;
+  }
+
+  #support {
+    margin-top: 50px;
+  }
+
+  #social-icons {
+    display: flex;
+    justify-content: center;
+    position: fixed;
+    bottom: 10px;
+    width: 100%;
+    gap: 20px;
+  }
+  
+  #social-icons a {
+    font-size: 2rem;
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  #social-icons a:hover {
+    color: #ccc;
+  }

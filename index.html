@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="/styles/styles_main.css">
+    <link rel="stylesheet" href="/styles/styles_header.css">
+    <link rel="stylesheet" href="/styles/styles_sidebar.css">
+    <link rel="stylesheet" href="/styles/styles_search.css">
+    <link rel="stylesheet" href="/styles/styles_quote.css">
+    <link rel="stylesheet" href="/styles/styles_sites.css">
+    <link rel="stylesheet" href="/styles/styles_footer.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <title>Random Quote</title>
+</head>
+<body>
+    <div id="overlay"></div> <!-- Overlay div -->
+    <canvas id="floatingDotsCanvas"></canvas>
+
+
+    <div class="header">
+
+      <div id="header-left">
+        <div id="settings-div">
+          <img src="Assets/Settings_outline.png" id="settings"/>
+        </div>
+      </div>
+
+      <div id="header-right">
+        <a href="https://mail.google.com" class="top-link" id="gmail-link" title="Gmail">
+          <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Gmail_Icon.svg/1024px-Gmail_Icon.svg.png" alt="Gmail Icon"> -->
+          Gmail
+        </a>
+        <a href="https://mail.google.com" class="top-link" id="images-link" title="Gmail">
+          <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Gmail_Icon.svg/1024px-Gmail_Icon.svg.png" alt="Gmail Icon"> -->
+          Images
+        </a>
+        <div class="google-utils">
+          <div id="utils-icon-div">
+            <img src="Assets/AppsIcon.png" alt="Google Utilities" id="utils-icon">
+          </div>
+          <!-- <img src="Assets/AppsIcon.png" alt="Google Utilities" class="utils-icon" id="utils-icon"> -->
+          <!-- <div class="utils-icon" id="utils-icon">Utilities</div> -->
+          <div class="utils-menu" id="utils-menu">
+            <div class="utils-menu-row">
+              <a href="https://mail.google.com" class="menu-item">
+                <img src="Assets/Google Icons/IconGmail.png" class="utils-menu-icon"/>
+                <p class="menu-item-text">GMail</p>
+              </a>
+              <a href="https://maps.google.com" class="menu-item">
+                <img src="Assets/Google Icons/IconMaps.png" class="utils-menu-icon"/>
+                <p class="menu-item-text">Maps</p>
+              </a>
+              <a href="https://drive.google.com" class="menu-item">
+                <img src="Assets/Google Icons/IconDrive.png" class="utils-menu-icon"/>
+                <p class="menu-item-text">Drive</p>
+              </a>
+            </div>
+            <div class="utils-menu-row">
+              <a href="https://meet.google.com" class="menu-item">
+                <img src="Assets/Google Icons/IconMeets.png" class="utils-menu-icon"/>
+                <p class="menu-item-text">Meet</p>
+              </a>
+              <a href="https://calendar.google.com" class="menu-item">
+                <img src="Assets/Google Icons/IconCalandar.png" class="utils-menu-icon"/>
+                <p class="menu-item-text">Calendar</p>
+              </a>
+              <a href="https://play.google.com" class="menu-item">
+                <img src="Assets/Google Icons/IconPlay.png" class="utils-menu-icon"/>
+                <p class="menu-item-text">Play</p>
+              </a>
+            </div>
+            <div class="utils-menu-row">
+              <a href="https://photos.google.com" class="menu-item">
+                <img src="Assets/Google Icons/IconPhotos.png" class="utils-menu-icon"/>
+                <p class="menu-item-text">Photos</p>
+              </a>
+              <a href="https://translate.google.com" class="menu-item">
+                <img src="Assets/Google Icons/IconTranslate.png" class="utils-menu-icon"/>
+                <p class="menu-item-text">Translate</p>
+              </a>
+              <a href="https://news.google.com" class="menu-item">
+                <img src="Assets/Google Icons/IconNews.png" class="utils-menu-icon"/>
+                <p class="menu-item-text">News</p>
+              </a>
+            </div>
+            <div class="utils-menu-row">
+              <a href="https://docs.google.com" class="menu-item">
+                <img src="Assets/Google Icons/IconDocs.png" class="utils-menu-icon"/>
+                <p class="menu-item-text">Docs</p>
+              </a>
+              <a href="https://slides.google.com" class="menu-item">
+                <img src="Assets/Google Icons/IconSlides.png" class="utils-menu-icon"/>
+                <p class="menu-item-text">Slides</p>
+              </a>
+              <a href="https://sheets.google.com" class="menu-item">
+                <img src="Assets/Google Icons/IconSheets.png" class="utils-menu-icon"/>
+                <p class="menu-item-text">Sheets</p>
+              </a>
+            </div>
+            <div class="utils-menu-row">
+              <a href="https://forms.google.com" class="menu-item">
+                <img src="Assets/Google Icons/IconForms.png" class="utils-menu-icon"/>
+                <p class="menu-item-text">Forms</p>
+              </a>
+              <a href="https://analytics.google.com" class="menu-item">
+                <img src="Assets/Google Icons/IconAnalytics.png" class="utils-menu-icon"/>
+                <p class="menu-item-text">Analytics</p>
+              </a>
+              <a href="https://ads.google.com" class="menu-item">
+                <img src="Assets/Google Icons/IconAds.png" class="utils-menu-icon"/>
+                <p class="menu-item-text">Ads</p>
+              </a>
+            </div>
+            <!-- Add more links as needed -->
+          </div>
+        </div>
+      </div>
+      
+        <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Google_Account_Icon.svg/1024px-Google_Account_Icon.svg.png" alt="Google Account" class="account-icon"> -->
+    </div>
+
+    
+  
+    <div class="sidebar" id="settings-sidebar">
+      <div id="sidebar-header">
+        <h2>Settings</h2>
+        <button class="close-btn" id="close-sidebar">X</button> <!-- Close button -->
+      </div>
+      
+      <div id="sidebar-top">
+        <div class="theme-toggle">
+          <label class="switch">
+              <input type="checkbox" id="theme-switch">
+              <span class="slider round" id="slider-theme"></span>
+          </label>
+          <label for="theme-switch">Dark Theme</label>
+        </div>
+
+        <div class="dots-toggle">
+          <label class="switch">
+              <input type="checkbox" id="dots-switch">
+              <span class="slider round" id="slider-dots"></span>
+          </label>
+          <label for="dots-switch">Floating dots enabled</label>
+        </div>
+
+        <div class="dot-count-control">
+          <input type="range" id="dot-count-slider" min="50" max="1000" value="300">
+          <span id="dot-count-display">300</span>
+          <label for="dot-count-slider">Floating Dots</label>
+        </div>
+      </div>
+
+      <div id="sidebar-bottom">
+        <div id="about">
+            <h3>About</h3>
+            I'm enthusiased about creating cool, fun things, about wisdom, and pinnacles of it in the form of quotes. I loved creating this, and I hope you enjoy it and gives you deep sense of presence, wisdom, and connection, so that it may affect you positively, even to the slightest degree.
+            <br><br>Feel free to contact me about anything at <a href="danielgu.contact@gmail.com">danielgu.contact@gmail.com</a>
+        </div>
+        
+        <div id="support">
+          <h3>Support</h3>
+          If you wish to support me, please consider donating any amount of money through Buy Me A Coffee or PayPal!
+          <div id="support-me-links">
+            <a href="buymeacoffee.com/wisdomLabsDaniel">
+              <img src="Assets/BuyMeACoffee_large.png" class="support-me-link"/>
+            </a>
+            <a href="buymeacoffee.com/wisdomLabsDaniel">
+              <img src="Assets/PayPal_large_darkerYellow.png" class="support-me-link"/>  
+            </a>
+          </div>
+          Anything would be highly appreciated! Thank you so much! <!-- <img src="Assets/heart-icon.png" class="footer-heart"/> -->
+          
+          <div id="credit">
+            Made with&nbsp
+            <img src="Assets/heart-icon.png" class="footer-heart"/>
+            &nbspby Daniel G. @ WisdomLabs
+          </div>
+      </div>
+      </div>
+      <!-- <label for="toggle-dots">Enable Floating Dots</label>
+      <input type="checkbox" id="toggle-dots"> -->
+    </div>
+
+
+    
+    <div class="search-container">
+        <div class="bar">
+          <input class="searchbar" type="text" title="Search">
+          <a href="#"> <img class="voice" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Google_mic.svg/716px-Google_mic.svg.png" title="Search by Voice"></a>
+        </div>
+        <div class="buttons">
+          <button id="google-search" class="button" type="button">Google Search</button>
+          <button class="button" type="button">I'm Feeling Lucky</button>
+          <button id="search-quote" class="button" type="button">Search the Quote</button>
+          <button id="search-author" class="button" type="button">Search the Author</button>
+        </div>
+    </div>
+
+    <div id="quote-container">
+      <p id="quote"></p>
+      <p id="author" style="margin-top: 20px;"></p> <!-- Add some margin for spacing -->
+    </div>
+
+    
+
+    <div id="sites-list-container-container">
+      <div id="sites-list-container">
+        <ul id="sites-list" class="sites-list-horizontal"></ul>
+        <div id="show-sites-button-div">
+          <button id="show-sites-button" class="circle-button">+</button>
+        </div>
+      </div>
+    </div>
+
+
+    <div id="footer">
+      <div id="footer-left">
+        <!-- Made with&nbsp
+        <img src="Assets/heart-icon.png" id="footer-heart"/>
+        &nbspby Daniel G. @ WisdomLabs -->
+      </div>
+      <div id="footer-right">
+        <div id="social-icons">
+          <a id="facebook-share" href="#" target="_blank">
+              <i class="fab fa-facebook"></i>
+          </a>
+          <a id="instagram-share" href="#" target="_blank">
+              <i class="fab fa-instagram"></i>
+          </a>
+        </div>
+      </div>
+    </div>
+    
+    
+  
+
+    <!-- Reference the external script file -->
+    <script src="script.js"></script>
+    <!-- <script src="floatingDots.js"></script> -->
+
+</body>
+</html>
