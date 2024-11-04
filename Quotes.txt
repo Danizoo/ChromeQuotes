@@ -1,4 +1,46 @@
 ///
+"You have power over your mind, not outside events. Realize this, and you will find strength." - Marcus Aurelius
+///
+"Do not waste time on what you cannot control." - Marcus Aurelius
+///
+"The happiness of your life depends upon the quality of your thoughts." - Marcus Aurelius
+///
+"Choose not to be harmed, and you won’t feel harmed. Don’t feel harmed, and you haven’t been." - Marcus Aurelius
+///
+"The best revenge is to be unlike him who performed the injury." - Marcus Aurelius
+///
+"Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth." - Marcus Aurelius
+///
+"It is not death that a man should fear, but he should fear never beginning to live." - Marcus Aurelius
+///
+"Waste no more time arguing about what a good man should be. Be one." - Marcus Aurelius
+///
+"The soul becomes dyed with the color of its thoughts." - Marcus Aurelius
+///
+"You are a little soul carrying around a corpse." - Marcus Aurelius
+///
+"Accept the things to which fate binds you, and love the people with whom fate brings you together." - Marcus Aurelius
+///
+"To live in accordance with nature is to live in accordance with reason." - Marcus Aurelius
+///
+"Our life is what our thoughts make it." - Marcus Aurelius
+///
+"Look within. Within is the fountain of good, and it will ever bubble up, if thou wilt ever dig." - Marcus Aurelius
+///
+"Let not your mind run on what you lack as much as on what you have already." - Marcus Aurelius
+///
+"The only wealth which you will keep forever is the wealth you have given away." - Marcus Aurelius
+///
+"Remember that very little is needed for a happy life." - Marcus Aurelius
+///
+"Be tolerant with others and strict with yourself." - Marcus Aurelius
+///
+"The universe is change; our life is what our thoughts make it." - Marcus Aurelius
+///
+"An early morning walk is a blessing for the whole day." - Marcus Aurelius
+///
+"Receive without pride, let go without attachment." - Marcus Aurelius
+///
 "I was obliged to be industrious. Whoever is equally industrious will succeed equally well." - Johann Sebastian Bach
 ///
 "The aim and final end of all music should be none other than the glory of God and the refreshment of the soul." - Johann Sebastian Bach
@@ -48,6 +90,48 @@
 "The hero’s journey is one of learning and growth." - Joseph Campbell
 ///
 "The only thing that matters is that you keep going and that you embrace the adventure." - Joseph Campbell
+///
+"The only way to deal with an unfree world is to become so absolutely free that your very existence is an act of rebellion." - Albert Camus
+///
+"I don’t want to be a part of a world where being kind is a crime." - Albert Camus
+///
+"Man is the only creature who refuses to be what he is." - Albert Camus
+///
+"Freedom is nothing but a chance to be better." - Albert Camus
+///
+"Life is truly a mystery, a paradox, a story." - Albert Camus
+///
+"The struggle itself toward the heights is enough to fill a man's heart. One must imagine Sisyphus happy." - Albert Camus
+///
+"In the depth of winter, I finally learned that within me there lay an invincible summer." - Albert Camus
+///
+"There is no love of life without despair of life." - Albert Camus
+///
+"People hasten to judge in order not to be judged themselves." - Albert Camus
+///
+"To be happy, we must not be too concerned with others." - Albert Camus
+///
+"Real generosity toward the future lies in giving all to the present." - Albert Camus
+///
+"Man is the only creature that refuses to be what he is." - Albert Camus
+///
+"Those who lack the courage will always find a philosophy to justify it." - Albert Camus
+///
+"Nothing is true, everything is permitted." - Albert Camus
+///
+"The absurd is born out of this confrontation between the human need and the unreasonable silence of the world." - Albert Camus
+///
+"Charity sets out to be a good Samaritan, but it often ends up creating a new form of tyranny." - Albert Camus
+///
+"Life is a sum of all your choices." - Albert Camus
+///
+"Your freedom is not a gift from the state; it is a choice you make every day." - Albert Camus
+///
+"To create is to live twice." - Albert Camus
+///
+"One cannot be honest without being free." - Albert Camus
+///
+"A man without ethics is a wild beast loosed upon this world." - Albert Camus
 ///
 "In the midst of movement and chaos, keep stillness inside of you." - Deepak Chopra
 ///
@@ -329,6 +413,45 @@
 ///
 "I am enough of an artist to draw freely upon my imagination. Imagination is more important than knowledge. Knowledge is limited. Imagination encircles the world." - Albert Einstein
 ///
+"It's not what happens to you, but how you react to it that matters" - Epictetus
+///
+"Wealth consists not in having great possessions, but in having few wants" - Epictetus
+///
+"First say to yourself what you would be; and then do what you have to do" - Epictetus
+///
+"He who laughs at himself never runs out of things to laugh at" - Epictetus
+///
+"Don’t explain your philosophy. Embody it" - Epictetus
+///
+"Freedom is the only worthy goal in life. It is won by disregarding things that lie beyond our control" - Epictetus
+///
+"Make the best use of what is in your power, and take the rest as it happens" - Epictetus
+///
+"Only the educated are free" - Epictetus
+///
+"Know, first, who you are, and then adorn yourself accordingly" - Epictetus
+///
+"No man is free who is not master of himself" - Epictetus
+///
+"If you want to improve, be content to be thought foolish and stupid" - Epictetus
+///
+"The key is to keep company only with people who uplift you, whose presence calls forth your best" - Epictetus
+///
+"Circumstances don’t make the man; they only reveal him to himself" - Epictetus
+///
+"It is impossible for a man to learn what he thinks he already knows" - Epictetus
+///
+"Small minded people blame others. Average people blame themselves. The wise see all blame as foolishness" - Epictetus
+///
+"He is a wise man who does not grieve for the things which he has not, but rejoices for those which he has" - Epictetus
+///
+"The greater the difficulty, the more glory in surmounting it" - Epictetus
+///
+"Seek not the good in external things; seek it in yourselves" - Epictetus
+///
+"Men are disturbed not by things, but by the view which they take of them" - Epictetus
+///
+"Attach yourself to what is spiritually superior, regardless of what other people think or do" - Epictetus
 ///
 "The first principle is that you must not fool yourself, and you are the easiest person to fool." - Richard Feynman
 ///
@@ -417,6 +540,60 @@
 "Life’s tragedy is that we get old too soon and wise too late." - Benjamin Franklin
 ///
 "You may delay, but time will not." - Benjamin Franklin
+///
+"In three words I can sum up everything I've learned about life: it goes on." - Robert Frost
+///
+"The best way out is always through." - Robert Frost
+///
+"Poetry is when an emotion has found its thought and the thought has found words." - Robert Frost
+///
+"By working faithfully eight hours a day, you may eventually get to be a boss and work twelve hours a day." - Robert Frost
+///
+"Freedom lies in being bold." - Robert Frost
+///
+"Success is not to be measured by what one accomplishes, but by the opposition he has encountered." - Robert Frost
+///
+"Be the change that you wish to see in the world." - Mahatma Gandhi
+///
+"An eye for an eye only ends up making the whole world blind." - Mahatma Gandhi
+///
+"Live as if you were to die tomorrow. Learn as if you were to live forever." - Mahatma Gandhi
+///
+"The best way to find yourself is to lose yourself in the service of others." - Mahatma Gandhi
+///
+"Happiness is when what you think, what you say, and what you do are in harmony." - Mahatma Gandhi
+///
+"Strength does not come from physical capacity. It comes from an indomitable will." - Mahatma Gandhi
+///
+"In a gentle way, you can shake the world." - Mahatma Gandhi
+///
+"First, they ignore you, then they laugh at you, then they fight you, then you win." - Mahatma Gandhi
+///
+"The weak can never forgive. Forgiveness is the attribute of the strong." - Mahatma Gandhi
+///
+"The future depends on what you do today." - Mahatma Gandhi
+///
+"To give pleasure to a single heart by a single act is better than a thousand heads bowing in prayer." - Mahatma Gandhi
+///
+"You must be the change you wish to see in the world." - Mahatma Gandhi
+///
+"Where there is love there is life." - Mahatma Gandhi
+///
+"It's the action, not the fruit of the action, that's important." - Mahatma Gandhi
+///
+"Service which is rendered without joy helps neither the servant nor the served." - Mahatma Gandhi
+///
+"Freedom is not worth having if it does not include the freedom to make mistakes." - Mahatma Gandhi
+///
+"The good man is the one who, though he is subject to error, continually strives to do good." - Mahatma Gandhi
+///
+"Our greatness lies not so much in being able to remake the world, as in being able to remake ourselves." - Mahatma Gandhi
+///
+"Earth provides enough to satisfy every man's needs, but not every man's greed." - Mahatma Gandhi
+///
+"Action expresses priorities." - Mahatma Gandhi
+///
+"There is no path to peace. Peace is the path." - Mahatma Gandhi
 ///
 "Music is the pleasure the human soul experiences from counting without being aware that it is counting." - Gottfried Wilhelm Leibniz
 ///
@@ -537,6 +714,42 @@
 "The better part of one's life consists of his friendships." - Abraham Lincoln
 ///
 "I don't like that man. I must get to know him better." - Abraham Lincoln
+///
+"The whole world is a narrow bridge, and the main thing is to not be afraid at all." - Rebbe Nachman
+///
+"Nothing is as whole as a broken heart." - Rebbe Nachman
+///
+"Whenever you feel a lack of strength, remember that even the smallest of actions can make a difference." - Rebbe Nachman
+///
+"Each person must be in their own way, a unique light." - Rebbe Nachman,
+///
+"Whoever is able to see the good in others will be able to see the good in themselves." - Rebbe Nachman
+///
+"Joy is not merely a feeling; it is a source of life." - Rebbe Nachman,
+///
+"Everything depends on one's thoughts." - Rebbe Nachman
+///
+"The most important thing is to be happy." - Rebbe Nachman
+///
+"The purpose of our life is to find joy in our hearts." - Rebbe Nachman
+///
+"To fall is not to fail, but to fall and not get up is failure." - Rebbe Nachman
+///
+"True prayer is a matter of the heart." - Rebbe Nachman
+///
+"Do not be afraid to tell your troubles to God." - Rebbe Nachman
+///
+"Everything that happens is for the good." - Rebbe Nachman
+///
+"It is not the actions of a person that matter, but the intention behind them." - Rebbe Nachman
+///
+"One who believes in their ability to change is capable of great things." - Rebbe Nachman
+///
+"Every person is a world unto themselves." - Rebbe Nachman
+///
+"Seek joy, and you will find it." - Rebbe Nachman
+///
+"Your heart is your greatest teacher." - Rebbe Nachman
 ///
 "He who has a why to live can bear almost any how." - Friedrich Nietzsche
 ///
@@ -917,6 +1130,48 @@
 "Thoughts are like clouds; they come and go." - Alan Watts
 ///
 "Instead of trying to change the world, let’s change our perspective on it." - Alan Watts
+///
+"Be yourself; everyone else is already taken." - Oscar Wilde
+///
+"I can resist anything except temptation." - Oscar Wilde
+///
+"To live is the rarest thing in the world. Most people exist, that is all." - Oscar Wilde
+///
+"Life is far too important a thing ever to talk seriously about." - Oscar Wilde
+///
+"Experience is simply the name we give our mistakes." - Oscar Wilde
+///
+"True friends stab you in the front." - Oscar Wilde
+///
+"The only way to get rid of a temptation is to yield to it." - Oscar Wilde
+///
+"All art is quite useless." - Oscar Wilde
+///
+"Imitation is the sincerest form of flattery that mediocrity can pay to greatness." - Oscar Wilde
+///
+"The truth is rarely pure and never simple." - Oscar Wilde
+///
+"Nothing succeeds like excess." - Oscar Wilde
+///
+"Women are made to be loved, not understood." - Oscar Wilde
+///
+"Be wary of those who are not aware of their own flaws." - Oscar Wilde
+///
+"Life imitates art far more than art imitates Life." - Oscar Wilde
+///
+"The only thing worse than being talked about is not being talked about." - Oscar Wilde
+///
+"An excellent portrait is a portrait of the artist, not of the sitter." - Oscar Wilde
+///
+"Whenever people agree with me, I always feel I must be wrong." - Oscar Wilde
+///
+"One can never be overdressed or overeducated." - Oscar Wilde
+///
+"The best way to make children good is to make them happy." - Oscar Wilde
+///
+"We are all in the gutter, but some of us are looking at the stars." - Oscar Wilde
+///
+"To love oneself is the beginning of a lifelong romance." - Oscar Wilde
 ///
 "The longer I live, the more beautiful life becomes." - Frank Lloyd Wright
 ///
