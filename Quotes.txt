@@ -353,6 +353,42 @@
 ///
 "In rivers, the water that you touch is the last of what has passed and the first of that which comes; so with present time." - Leonardo da Vinci
 ///
+The pain of parting is nothing to the joy of meeting again." - Charles Dickens
+///
+"There is nothing in the world so irresistibly contagious as laughter and good humor." - Charles Dickens
+///
+"A loving heart is the truest wisdom." - Charles Dickens
+///
+"No one is useless in this world who lightens the burdens of another." - Charles Dickens
+///
+"I will honor Christmas in my heart, and try to keep it all the year." - Charles Dickens
+///
+"We need never be ashamed of our tears." - Charles Dickens
+///
+"It is a melancholy truth that even great men have their poor relations." - Charles Dickens
+///
+"There are books of which the backs and the covers are by far the best parts." - Charles Dickens
+///
+"A day wasted on others is not wasted on oneself." - Charles Dickens
+///
+"The most important thing in life is to be happy, not rich." - Charles Dickens
+///
+"The difference between a good man and a bad man is the same as the difference between a good book and a bad one." - Charles Dickens
+///
+"I only ask to be free. The butterflies are free." - Charles Dickens
+///
+"He had been very much of a ‘foreigner’ in the past, but now he was very much a ‘son.’" - Charles Dickens
+///
+"Have a heart that never hardens, and a temper that never tires, and a touch that never hurts." - Charles Dickens
+///
+"It is a matter of great consequence to be in a good position in life." - Charles Dickens
+///
+"People have been very good to me, but my talent is what has made me a success." - Charles Dickens
+///
+"Time is the most precious thing in the world. What do you think of this moment?" - Charles Dickens
+///
+"Life is made of moments, and moments make a life." - Charles Dickens
+///
 “Behind every beautiful thing, there's some kind of pain.” - Bob Dylan
 ///
 “A man is a success if he gets up in the morning and gets to bed at night, and in between he does what he wants to do.” - Bob Dylan
@@ -613,6 +649,104 @@
 ///
 "There is no path to peace. Peace is the path." - Mahatma Gandhi
 ///
+"The privilege of a lifetime is to become who you truly are." - Carl Jung
+///
+"Your visions will become clear only when you can look into your own heart. Who looks outside, dreams; who looks inside, awakes." - Carl Jung
+///
+"I am not what happened to me, I am what I choose to become." - Carl Jung
+///
+"Knowing your own darkness is the best method for dealing with the darknesses of other people." - Carl Jung
+///
+"Until you make the unconscious conscious, it will direct your life and you will call it fate." - Carl Jung
+///
+"People will do anything, no matter how absurd, to avoid facing their own souls." - Carl Jung
+///
+"Everything that irritates us about others can lead us to an understanding of ourselves." - Carl Jung
+///
+"The meeting of two personalities is like the contact of two chemical substances: if there is any reaction, both are transformed." - Carl Jung
+///
+"One does not become enlightened by imagining figures of light, but by making the darkness conscious." - Carl Jung
+///
+"The pendulum of the mind oscillates between sense and nonsense, not between right and wrong." - Carl Jung
+///
+"As far as we can discern, the sole purpose of human existence is to kindle a light in the darkness of mere being." - Carl Jung
+///
+"In all chaos, there is a cosmos; in all disorder, a secret order." - Carl Jung
+///
+"The most terrifying thing is to accept oneself completely." - Carl Jung
+///
+"Wholeness is not achieved by cutting off a portion of one’s being, but by integration of the contraries." - Carl Jung
+///
+"Loneliness does not come from having no people around, but from being unable to communicate the things that seem important to oneself." - Carl Jung
+///
+"Show me a sane man and I will cure him for you." - Carl Jung
+///
+"Man needs difficulties; they are necessary for health." - Carl Jung
+///
+"Life really does begin at forty. Up until then, you are just doing research." - Carl Jung
+///
+"Every form of addiction is bad, no matter whether the narcotic be alcohol, morphine, or idealism." - Carl Jung
+///
+"The shoe that fits one person pinches another; there is no recipe for living that suits all cases." - Carl Jung
+///
+"The healthy man does not torture others. Generally, it is the tortured who turn into torturers." - Carl Jung
+///
+"We cannot change anything until we accept it. Condemnation does not liberate, it oppresses." - Carl Jung
+///
+"Thinking is difficult, that’s why most people judge." - Carl Jung
+///
+"Mistakes are, after all, the foundations of truth, and if a man does not know what a thing is, it is at least an increase in knowledge if he knows what it is not." - Carl Jung
+///
+"If there is anything that we wish to change in the child, we should first examine it and see whether it is not something that could better be changed in ourselves." - Carl Jung
+///
+"The world will ask you who you are, and if you don’t know, the world will tell you." - Carl Jung
+///
+"A man who has not passed through the inferno of his passions has never overcome them." - Carl Jung
+///
+"To ask the right question is already half the solution of a problem." - Carl Jung
+///
+"Whatever is rejected from the self, appears in the world as an event." - Carl Jung
+///
+"Faith, hope, love, and insight are the highest achievements of human effort. They are found-given by experience." - Carl Jung
+///
+"Happiness is not something ready-made. It comes from your own actions." - Dalai Lama
+///
+"Be kind whenever possible. It is always possible." - Dalai Lama
+///
+"In the practice of tolerance, one's enemy is the best teacher." - Dalai Lama
+///
+"The purpose of our lives is to be happy." - Dalai Lama
+///
+"If you want others to be happy, practice compassion. If you want to be happy, practice compassion." - Dalai Lama
+///
+"We can never obtain peace in the outer world until we make peace with ourselves." - Dalai Lama
+///
+"Remember that not getting what you want is sometimes a wonderful stroke of luck." - Dalai Lama
+///
+"My religion is very simple. My religion is kindness." - Dalai Lama
+///
+"When you talk, you are only repeating what you already know. But if you listen, you may learn something new." - Dalai Lama
+///
+"Love and compassion are necessities, not luxuries. Without them, humanity cannot survive." - Dalai Lama
+///
+"With the realization of one’s own potential and self-confidence in one’s ability, one can build a better world." - Dalai Lama
+///
+"The more you are motivated by love, the more fearless and free your action will be." - Dalai Lama
+///
+"Take into account that great love and great achievements involve great risk." - Dalai Lama
+///
+"A disciplined mind leads to happiness, and an undisciplined mind leads to suffering." - Dalai Lama
+///
+"There are only two days in the year that nothing can be done. One is called yesterday, and the other is called tomorrow." - Dalai Lama
+///
+"Our prime purpose in this life is to help others. And if you can’t help them, at least don’t hurt them." - Dalai Lama
+///
+"If you want to be happy, practice compassion." - Dalai Lama
+///
+"Sometimes one creates a dynamic impression by saying something, and sometimes one creates as significant an impression by remaining silent." - Dalai Lama
+///
+"The goal is not to be better than the other man, but your previous self." - Dalai Lama
+///
 "Music is the pleasure the human soul experiences from counting without being aware that it is counting." - Gottfried Wilhelm Leibniz
 ///
 "It is unworthy of excellent men to lose hours like slaves in the labor of calculation which could safely be relegated to anyone else if machines were used." - Gottfried Wilhelm Leibniz
@@ -672,6 +806,44 @@
 "It is in the nature of things that to every action there is always an opposite and equal reaction." - Gottfried Wilhelm Leibniz
 ///
 "A curved line is the loveliest distance between two points." - Gottfried Wilhelm Leibniz
+///
+"Reality leaves a lot to the imagination." - John Lennon
+///
+"Life is what happens while you are busy making other plans." - John Lennon
+///
+"Count your age by friends, not years. Count your life by smiles, not tears." - John Lennon
+///
+"Love is the flower you’ve got to let grow." - John Lennon
+///
+"There’s nowhere you can be that isn’t where you’re meant to be." - John Lennon
+///
+"A dream you dream alone is only a dream. A dream you dream together is reality." - John Lennon
+///
+"Time you enjoy wasting was not wasted." - John Lennon
+///
+"When I cannot sing my heart, I can only speak my mind." - John Lennon
+///
+"Everything will be okay in the end. If it’s not okay, it’s not the end." - John Lennon
+///
+"I believe in everything until it’s disproved. So I believe in fairies, the myths, dragons. It all exists, even if it’s in your mind." - John Lennon
+///
+"If everyone demanded peace instead of another television set, then there’d be peace." - John Lennon
+///
+"We live in a world where we have to hide to make love, while violence is practiced in broad daylight." - John Lennon
+///
+"Music is everybody’s possession. It’s only publishers who think that people own it." - John Lennon
+///
+"You don’t need anybody to tell you who you are or what you are. You are what you are!" - John Lennon
+///
+"As usual, there is a great woman behind every idiot." - John Lennon
+///
+"Love is the answer, and you know that for sure; Love is a flower, you’ve got to let it grow." - John Lennon
+///
+"Imagine all the people living life in peace. You may say I’m a dreamer, but I’m not the only one." - John Lennon
+///
+"When you do something noble and beautiful and nobody noticed, do not be sad. For the sun every morning is a beautiful spectacle, and yet most of the audience still sleeps." - John Lennon
+///
+"Being honest may not get you a lot of friends, but it’ll always get you the right ones." - John Lennon
 ///
 "The best way to predict your future is to create it." - Abraham Lincoln
 ///
@@ -829,6 +1001,14 @@
 ///
 "He who climbs upon the highest mountains laughs at all tragedies, real or imaginary." - Friedrich Nietzsche
 ///
+"Charms strike the sight, but merit wins the soul." - Alexander Pope
+///
+"Charms strike the sight, but merit wins the soul." - Alexander Pope
+///
+"No one should be ashamed to admit he is wrong, which is but saying, in other words, that he is wiser today than he was yesterday." - Alexander Pope
+///
+"To err is human; to forgive, divine." - Alexander Pope
+///
 "It’s the moments that we question, that we dig deeper and find who we are." - Zat Rana
 ///
 "You are not here to fit in; you are here to stand out." - Zat Rana
@@ -848,6 +1028,46 @@
 "You are not a drop in the ocean; you are the entire ocean in a drop." - Zat Rana
 ///
 "Your journey is not about finding yourself; it’s about creating yourself." - Zat Rana
+///
+"Do not be satisfied with the stories that come before you. Unfold your own myth." - Rumi
+///
+"You were born with wings, why prefer to crawl through life?" - Rumi
+///
+"Let yourself be silently drawn by the strange pull of what you really love. It will not lead you astray." - Rumi
+///
+"Raise your words, not your voice. It is rain that grows flowers, not thunder." - Rumi
+///
+"Don't grieve. Anything you lose comes round in another form." - Rumi
+///
+"Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself." - Rumi
+///
+"The wound is the place where the Light enters you." - Rumi
+///
+"Stop acting so small. You are the universe in ecstatic motion." - Rumi
+///
+"Why are you so busy with this or that or good or bad; pay attention to how things blend." - Rumi
+///
+"Wherever you are, and whatever you do, be in love." - Rumi
+///
+"Only from the heart can you touch the sky." - Rumi
+///
+"The soul has been given its own ears to hear things the mind does not understand." - Rumi
+///
+"These pains you feel are messengers. Listen to them." - Rumi
+///
+"Be like a tree and let the dead leaves drop." - Rumi
+///
+"When the soul lies down in that grass, the world is too full to talk about." - Rumi
+///
+"Set your life on fire. Seek those who fan your flames." - Rumi
+///
+"Love is the bridge between you and everything." - Rumi
+///
+"You have to keep breaking your heart until it opens." - Rumi
+///
+"Let the waters settle and you will see the moon and the stars mirrored in your own being." - Rumi
+///
+"Travel brings power and love back into your life." - Rumi
 ///
 "Today was good. Today was fun. Tomorrow is another one." - Dr. Seuss
 ///
@@ -950,6 +1170,102 @@
 "To move the world we must move ourselves." - Socrates
 ///
 "If a man is proud of his wealth, he should not be praised until it is known how he employs it." - Socrates
+///
+"If you want to find the secrets of the universe, think in terms of energy, frequency, and vibration." - Nikola Tesla
+///
+"I don’t care that they stole my idea… I care that they don’t have any of their own." - Nikola Tesla
+///
+"Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more." - Nikola Tesla
+///
+"My brain is only a receiver. In the Universe, there is a core from which we obtain knowledge, strength, and inspiration." - Nikola Tesla
+///
+"The day science begins to study non-physical phenomena, it will make more progress in one decade than in all the previous centuries of its existence." - Nikola Tesla
+///
+"Of all things, I liked books best." - Nikola Tesla
+///
+"Be alone, that is the secret of invention; be alone, that is when ideas are born." - Nikola Tesla
+///
+"Let the future tell the truth, and evaluate each one according to their work and accomplishments. The present is theirs; the future, for which I have really worked, is mine." - Nikola Tesla
+///
+"I do not think you can name many great inventions that have been made by married men." - Nikola Tesla
+///
+"Anti-social behavior is a trait of intelligence in a world full of conformists." - Nikola Tesla
+///
+"What one man calls God, another calls the laws of physics." - Nikola Tesla
+///
+"All that was great in the past was ridiculed, condemned, combated, suppressed—only to emerge all the more powerfully, all the more triumphantly from the struggle." - Nikola Tesla
+///
+"Instinct is something that transcends knowledge. We have, undoubtedly, certain finer fibers that enable us to perceive truths when logical deduction or any other willful effort of the brain is futile." - Nikola Tesla
+///
+"Invention is the most important product of man’s creative brain. The ultimate purpose is the complete mastery of mind over the material world, the harnessing of human nature to human needs." - Nikola Tesla
+///
+"Life is and will ever remain an equation incapable of solution, but it contains certain known factors." - Nikola Tesla
+///
+"If your hate could be turned into electricity, it would light up the whole world." - Nikola Tesla
+///
+"The scientists of today think deeply instead of clearly. One must be sane to think clearly, but one can think deeply and be quite insane." - Nikola Tesla
+///
+"Peace can only come as a natural consequence of universal enlightenment and merging of races, and we are still far from this blissful realization." - Nikola Tesla
+///
+"The primary cause of unhappiness is never the situation but your thoughts about it." - Eckhart Tolle
+///
+"Realize deeply that the present moment is all you ever have." - Eckhart Tolle
+///
+"You are not a problem that needs to be solved." - Eckhart Tolle
+///
+"Whatever you think the world is withholding from you, you are withholding from the world." - Eckhart Tolle
+///
+"To love is to recognize yourself in another." - Eckhart Tolle
+///
+"Time isn’t precious at all, because it is an illusion." - Eckhart Tolle
+///
+"The past has no power over the present moment." - Eckhart Tolle
+///
+"You cannot be both unhappy and fully present in the now." - Eckhart Tolle
+///
+"Waking up is not about what you do, it’s about who you are." - Eckhart Tolle
+///
+"The ego says: ‘I shouldn’t have to suffer, I want to be free of suffering.’ But the soul says: ‘This is suffering. I am suffering. I embrace it. I learn from it.’" - Eckhart Tolle
+///
+"The moment you become aware of the ego, it is no longer in control." - Eckhart Tolle
+///
+"Acknowledging the good that you already have in your life is the foundation for all abundance." - Eckhart Tolle
+///
+"Let go of your attachment to the past and move into the present moment." - Eckhart Tolle
+///
+"Life isn’t as serious as the mind makes it out to be." - Eckhart Tolle
+///
+"The most important thing is to stop thinking about what you don’t want, and start thinking about what you want." - Eckhart Tolle
+///
+"You do not rise above what you are willing to accept." - Eckhart Tolle
+///
+"Acceptance is the key to peace, the absence of resistance to what is." - Eckhart Tolle
+///
+"Nothing has ever happened in the past that can prevent you from being present now." - Eckhart Tolle
+///
+"You are not your mind." - Eckhart Tolle
+///
+"There is no way to happiness; happiness is the way." - Eckhart Tolle
+///
+"The more you are focused on time, past and future, the more you miss the timeless presence that is always here." - Eckhart Tolle
+///
+"The greatest help you can offer to others is to be fully present." - Eckhart Tolle
+///
+"Life will give you whatever experience is most helpful for the evolution of your consciousness." - Eckhart Tolle
+///
+"True love is not about attachment. It is about acceptance and presence." - Eckhart Tolle
+///
+"The thinking mind is a great servant but a poor master." - Eckhart Tolle
+///
+"Instead of wondering when your next vacation is, maybe you should set up a life you don’t need to escape from." - Eckhart Tolle
+///
+"The past and future are in the mind only. I am now." - Eckhart Tolle
+///
+"Every thought you think is creating your future." - Eckhart Tolle
+///
+"Emotions are the body’s reaction to your thoughts." - Eckhart Tolle
+///
+"The present moment is the field on which the game of life happens." - Eckhart Tolle
 ///
 "The secret of getting ahead is getting started." - Mark Twain
 ///
