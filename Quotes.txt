@@ -51,6 +51,20 @@
 ///
 "I worked hard. Anyone who works as hard as I did can achieve the same results." - Johann Sebastian Bach
 ///
+"Be who you are and say what you feel, because those who mind don't matter, and those who matter don't mind." - Bernard M. Baruch
+///
+“Most of the successful people I’ve known are the ones who do more listening than talking.” - Bernard M. Baruch
+///
+"Millions saw the apple fall, Newton was the only one who asked why?" - Bernard M. Baruch
+///
+"Never follow the crowd." - Bernard M. Baruch
+///
+"If all you have is a hammer, everything looks like a nail." - Bernard M. Baruch
+///
+“The art of living lies less in eliminating our troubles than in growing with them.” - Bernard M. Baruch
+///
+“I have witnessed a whole succession of technological revolutions. But none of them has done away with the need for character in the individual or the ability to think.” - Bernard M. Baruch
+///
 "The cave you fear to enter holds the treasure you seek." - Joseph Campbell
 ///
 "Follow your bliss and the universe will open doors where there were only walls." - Joseph Campbell
@@ -431,6 +445,8 @@ The pain of parting is nothing to the joy of meeting again." - Charles Dickens
 ///
 "We cannot solve our problems with the same thinking we used when we created them." - Albert Einstein
 ///
+"Two things are infinite: the universe and human stupidity; and I'm not sure about the universe." - Albert Einstein
+///
 "I speak to everyone in the same way, whether he is the garbage man or the president of the university." - Albert Einstein
 ///
 "Logic will get you from A to B. Imagination will take you everywhere." - Albert Einstein
@@ -466,6 +482,8 @@ The pain of parting is nothing to the joy of meeting again." - Charles Dickens
 "Learn from yesterday, live for today, hope for tomorrow. The important thing is not to stop questioning." - Albert Einstein
 ///
 "I am enough of an artist to draw freely upon my imagination. Imagination is more important than knowledge. Knowledge is limited. Imagination encircles the world." - Albert Einstein
+///
+"There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle." - Albert Einstein
 ///
 "It's not what happens to you, but how you react to it that matters" - Epictetus
 ///
@@ -649,6 +667,26 @@ The pain of parting is nothing to the joy of meeting again." - Charles Dickens
 ///
 "There is no path to peace. Peace is the path." - Mahatma Gandhi
 ///
+”Life happens wherever you are, whether you make it or not.” - Uncle Iroh
+///
+“Pride is not the opposite of shame, but its source.” - Uncle Iroh
+///
+“Sometimes life is like this tunnel. You can’t always see the light at the end of the tunnel, but if you keep moving, you will come to a better place.” - Uncle Iroh
+///
+"Many things that seem threatening in the dark become welcoming when we shine light on them." - Uncle Iroh
+///
+"Sometimes, the best way to solve your own problems is to help someone else." - Uncle Iroh
+///
+"In the darkest times, hope is something you give yourself. That is the meaning of inner strength." - Uncle Iroh
+///
+"Sometimes life is like this dark tunnel. You can't always see the light at the end of the tunnel, but if you just keep moving you will come to a better place." - Uncle Iroh
+///
+"Destiny is a funny thing. You never know how things are going to work out." - Uncle Iroh
+///
+"Pride is not the opposite of shame, but its source. True humility is the only antidote to shame." - Uncle Iroh
+///
+"Life happens wherever you are, whether you make it or not." - Uncle Iroh
+///
 "The privilege of a lifetime is to become who you truly are." - Carl Jung
 ///
 "Your visions will become clear only when you can look into your own heart. Who looks outside, dreams; who looks inside, awakes." - Carl Jung
@@ -708,6 +746,38 @@ The pain of parting is nothing to the joy of meeting again." - Charles Dickens
 "Whatever is rejected from the self, appears in the world as an event." - Carl Jung
 ///
 "Faith, hope, love, and insight are the highest achievements of human effort. They are found-given by experience." - Carl Jung
+///
+“Darkness cannot drive out darkness: only light can do that. Hate cannot drive out hate: only love can do that.” - Martin Luther King Jr.
+///
+“Our lives begin to end the day we become silent about things that matter.” - Martin Luther King Jr.
+///
+“Faith is taking the first step even when you can't see the whole staircase.” - Martin Luther King Jr.
+///
+“If you can't fly then run, if you can't run then walk, if you can't walk then crawl, but whatever you do you have to keep moving forward.” - Martin Luther King Jr.
+///
+“Let no man pull you so low as to hate him.” - Martin Luther King Jr.
+///
+“There comes a time when one must take a position that is neither safe, nor politic, nor popular, but he must take it because conscience tells him it is right.” - Martin Luther King Jr.
+///
+“Nothing in the world is more dangerous than sincere ignorance and conscientious stupidity.” - Martin Luther King Jr.
+///
+“The ultimate measure of a man is not where he stands in moments of comfort and convenience, but where he stands at times of challenge and controversy.” - Martin Luther King Jr.
+///
+“Intelligence plus character-that is the goal of true education.” - Martin Luther King Jr.
+///
+“Everybody can be great...because anybody can serve. You don't have to have a college degree to serve. You don't have to make your subject and verb agree to serve. You only need a heart full of grace. A soul generated by love.” - Martin Luther King Jr.
+///
+“No one really knows why they are alive until they know what they'd die for.” - Martin Luther King Jr.
+///
+“If a man is called to be a street sweeper, he should sweep streets even as a Michaelangelo painted, or Beethoven composed music or Shakespeare wrote poetry. He should sweep streets so well that all the hosts of heaven and earth will pause to say, 'Here lived a great street sweeper who did his job well.” - Martin Luther King Jr.
+///
+“We must accept finite disappointment, but never lose infinite hope.” - Martin Luther King Jr.
+///
+“Life's most persistent and urgent question is, 'What are you doing for others?” - Martin Luther King Jr.
+///
+“There can be no deep disappointment where there is not deep love.” - Martin Luther King Jr.
+///
+“If I cannot do great things, I can do small things in a great way” - Martin Luther King Jr.
 ///
 "Happiness is not something ready made. It comes from your own actions." - Dalai Lama
 ///
@@ -905,6 +975,12 @@ The pain of parting is nothing to the joy of meeting again." - Charles Dickens
 ///
 "I don't like that man. I must get to know him better." - Abraham Lincoln
 ///
+“I'm selfish, impatient and a little insecure. I make mistakes, I am out of control and at times hard to handle. But if you can't handle me at my worst, then you sure as hell don't deserve me at my best.” - Marilyn Monroe
+///
+“I believe that everything happens for a reason. People change so that you can learn to let go, things go wrong so that you appreciate them when they're right, you believe lies so you eventually learn to trust no one but yourself, and sometimes good things fall apart so better things can fall together.” - Marilyn Monroe
+///
+“Imperfection is beauty, madness is genius and it's better to be absolutely ridiculous than absolutely boring.” - Marilyn Monroe
+///
 "The whole world is a narrow bridge, and the main thing is to not be afraid at all." - Rebbe Nachman
 ///
 "Nothing is as whole as a broken heart." - Rebbe Nachman
@@ -969,7 +1045,7 @@ The pain of parting is nothing to the joy of meeting again." - Charles Dickens
 ///
 "You must have chaos within you to give birth to a dancing star." - Friedrich Nietzsche
 ///
-"What does your conscience say? — 'You should become the person you are.'" - Friedrich Nietzsche
+"What does your conscience say? 'You should become the person you are.'" - Friedrich Nietzsche
 ///
 "One must give value to their existence by behaving as if one's very existence were a work of art." - Friedrich Nietzsche
 ///
@@ -1028,6 +1104,14 @@ The pain of parting is nothing to the joy of meeting again." - Charles Dickens
 "You are not a drop in the ocean; you are the entire ocean in a drop." - Zat Rana
 ///
 "Your journey is not about finding yourself; it’s about creating yourself." - Zat Rana
+///
+“If you want to know what a man's like, take a good look at how he treats his inferiors, not his equals.” - J.K. Rowling
+///
+“It does not do to dwell on dreams and forget to live.” - J.K. Rowling
+///
+“It is impossible to live without failing at something, unless you live so cautiously that you might as well not have lived at all—in which case, you fail by default.” - J.K. Rowling
+///
+"There will be a time when we must choose between what is easy and what is right." - J.K. Rowling
 ///
 "Do not be satisfied with the stories that come before you. Unfold your own myth." - Rumi
 ///
@@ -1111,6 +1195,10 @@ The pain of parting is nothing to the joy of meeting again." - Charles Dickens
 ///
 "They say I'm old fashioned, and live in the past, but sometimes I think progress progresses too fast!" - Dr. Seuss
 ///
+“A ship is safe in harbor, but that's not what ships are for.” - John A. Shedd
+///
+“Opportunities are seldom labeled.” - John A. Shedd
+///
 "The only true wisdom is in knowing you know nothing." - Socrates
 ///
 "I cannot teach anybody anything. I can only make them think." - Socrates
@@ -1193,7 +1281,7 @@ The pain of parting is nothing to the joy of meeting again." - Charles Dickens
 ///
 "What one man calls God, another calls the laws of physics." - Nikola Tesla
 ///
-"All that was great in the past was ridiculed, condemned, combated, suppressed—only to emerge all the more powerfully, all the more triumphantly from the struggle." - Nikola Tesla
+"All that was great in the past was ridiculed, condemned, combated, suppressed, only to emerge all the more powerfully, all the more triumphantly from the struggle." - Nikola Tesla
 ///
 "Instinct is something that transcends knowledge. We have, undoubtedly, certain finer fibers that enable us to perceive truths when logical deduction or any other willful effort of the brain is futile." - Nikola Tesla
 ///
