@@ -1109,7 +1109,7 @@ The pain of parting is nothing to the joy of meeting again." - Charles Dickens
 ///
 “It does not do to dwell on dreams and forget to live.” - J.K. Rowling
 ///
-“It is impossible to live without failing at something, unless you live so cautiously that you might as well not have lived at all—in which case, you fail by default.” - J.K. Rowling
+“It is impossible to live without failing at something, unless you live so cautiously that you might as well not have lived at all in which case, you fail by default.” - J.K. Rowling
 ///
 "There will be a time when we must choose between what is easy and what is right." - J.K. Rowling
 ///
