@@ -65,6 +65,46 @@
 ///
 “I have witnessed a whole succession of technological revolutions. But none of them has done away with the need for character in the individual or the ability to think.” - Bernard M. Baruch
 ///
+"Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment." - Buddha
+///
+"The mind is everything. What you think you become." - Buddha
+///
+"Peace comes from within. Do not seek it without." - Buddha
+///
+"Three things cannot be long hidden: the sun, the moon, and the truth." - Buddha
+///
+"Holding onto anger is like drinking poison and expecting the other person to die." - Buddha
+///
+"No one saves us but ourselves. No one can and no one may. We ourselves must walk the path." - Buddha
+///
+"Health is the greatest gift, contentment the greatest wealth, faithfulness the best relationship." - Buddha
+///
+"It is better to conquer yourself than to win a thousand battles. Then the victory is yours." - Buddha
+///
+"All that we are is the result of what we have thought." - Buddha
+///
+"An idea that is developed and put into action is more important than an idea that exists only as an idea." - Buddha
+///
+"There is no path to happiness: happiness is the path." - Buddha
+///
+"Better than a thousand hollow words is one word that brings peace." - Buddha
+///
+"The root of suffering is attachment." - Buddha
+///
+"In the sky, there is no distinction of east and west; people create distinctions out of their own minds and then believe them to be true." - Buddha
+///
+"Purity or impurity depends on oneself. No one can purify another." - Buddha
+///
+"A disciplined mind brings happiness." - Buddha
+///
+"Work out your own salvation. Do not depend on others." - Buddha
+///
+"Just as a candle cannot burn without fire, men cannot live without a spiritual life." - Buddha
+///
+"Do not overrate what you have received, nor envy others. He who envies others does not obtain peace of mind." - Buddha
+///
+"Hatred does not cease by hatred, but only by love; this is the eternal rule." - Buddha
+///
 "The cave you fear to enter holds the treasure you seek." - Joseph Campbell
 ///
 "Follow your bliss and the universe will open doors where there were only walls." - Joseph Campbell
@@ -367,6 +407,44 @@
 ///
 "In rivers, the water that you touch is the last of what has passed and the first of that which comes; so with present time." - Leonardo da Vinci
 ///
+"The reading of all good books is like a conversation with the finest minds of past centuries." - René Descartes
+///
+"If you would be a real seeker after truth, it is necessary that at least once in your life you doubt, as far as possible, all things." - René Descartes
+///
+"To live without philosophizing is in truth the same as keeping the eyes closed without attempting to open them." - René Descartes
+///
+"It is not enough to have a good mind; the main thing is to use it well." - René Descartes
+///
+"Divide each difficulty into as many parts as is feasible and necessary to resolve it." - René Descartes
+///
+"The greatest minds are capable of the greatest vices as well as of the greatest virtues." - René Descartes
+///
+"In order to improve the mind, we ought less to learn than to contemplate." - René Descartes
+///
+"I am indeed amazed when I consider how weak my mind is and how prone to error." - René Descartes
+///
+"Except our own thoughts, there is nothing absolutely in our power." - René Descartes
+///
+"Common sense is the most fairly distributed thing in the world, for everyone thinks he is so well supplied with it that even those who are hardest to please in all other matters never desire more of it than they already have." - René Descartes
+///
+"Each problem that I solved became a rule which served afterwards to solve other problems." - René Descartes
+///
+"Conquer yourself rather than the world." - René Descartes
+///
+"Doubt is the origin of wisdom." - René Descartes
+///
+"Travelling is almost like talking with those of other centuries." - René Descartes
+///
+"The first precept was never to accept a thing as true until I knew it as such without a single doubt." - René Descartes
+///
+"Perfect numbers like perfect men are very rare." - René Descartes
+///
+"The last thing one knows is what to put first." - René Descartes
+///
+"When it is not in our power to follow what is true, we ought to follow what is most probable." - René Descartes
+///
+"Illusory joy is often worth more than genuine sorrow." - René Descartes
+///
 The pain of parting is nothing to the joy of meeting again." - Charles Dickens
 ///
 "There is nothing in the world so irresistibly contagious as laughter and good humor." - Charles Dickens
@@ -484,6 +562,46 @@ The pain of parting is nothing to the joy of meeting again." - Charles Dickens
 "I am enough of an artist to draw freely upon my imagination. Imagination is more important than knowledge. Knowledge is limited. Imagination encircles the world." - Albert Einstein
 ///
 "There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle." - Albert Einstein
+///
+"To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment." - Ralph Waldo Emerson
+///
+"Do not go where the path may lead, go instead where there is no path and leave a trail." - Ralph Waldo Emerson
+///
+"What lies behind us and what lies before us are tiny matters compared to what lies within us." - Ralph Waldo Emerson
+///
+"The only way to have a friend is to be one." - Ralph Waldo Emerson
+///
+"For every minute you are angry, you lose sixty seconds of happiness." - Ralph Waldo Emerson
+///
+"Adopt the pace of nature: her secret is patience." - Ralph Waldo Emerson
+///
+"Write it on your heart that every day is the best day in the year." - Ralph Waldo Emerson
+///
+"All life is an experiment. The more experiments you make the better." - Ralph Waldo Emerson
+///
+"Nothing great was ever achieved without enthusiasm." - Ralph Waldo Emerson
+///
+"The purpose of life is not to be happy. It is to be useful, to be honorable, to be compassionate, to have it make some difference that you have lived and lived well." - Ralph Waldo Emerson
+///
+"An ounce of action is worth a ton of theory." - Ralph Waldo Emerson
+///
+"Our greatest glory is not in never failing, but in rising up every time we fail." - Ralph Waldo Emerson
+///
+"Make the most of yourself, for that is all there is of you." - Ralph Waldo Emerson
+///
+"Without ambition, one starts nothing. Without work, one finishes nothing. The prize will not be sent to you. You have to win it." - Ralph Waldo Emerson
+///
+"The creation of a thousand forests is in one acorn." - Ralph Waldo Emerson
+///
+"Trust men and they will be true to you; treat them greatly, and they will show themselves great." - Ralph Waldo Emerson
+///
+"Shallow men believe in luck. Strong men believe in cause and effect." - Ralph Waldo Emerson
+///
+"Do the thing you fear, and the death of fear is certain." - Ralph Waldo Emerson
+///
+"Every artist was first an amateur." - Ralph Waldo Emerson
+///
+"Peace cannot be achieved through violence; it can only be attained through understanding." - Ralph Waldo Emerson
 ///
 "It's not what happens to you, but how you react to it that matters" - Epictetus
 ///
@@ -625,6 +743,44 @@ The pain of parting is nothing to the joy of meeting again." - Charles Dickens
 ///
 "Success is not to be measured by what one accomplishes, but by the opposition he has encountered." - Robert Frost
 ///
+"All truths are easy to understand once they are discovered; the point is to discover them." - Galileo Galilei
+///
+"You cannot teach a man anything; you can only help him find it within himself." - Galileo Galilei
+///
+"I do not feel obliged to believe that the same God who has endowed us with sense, reason, and intellect has intended us to forgo their use." - Galileo Galilei
+///
+"Wine is sunlight, held together by water." - Galileo Galilei
+///
+"The book of nature is written in the language of mathematics." - Galileo Galilei
+///
+"Measure what is measurable, and make measurable what is not so." - Galileo Galilei
+///
+"In questions of science, the authority of a thousand is not worth the humble reasoning of a single individual." - Galileo Galilei
+///
+"Mathematics is the language with which God has written the universe." - Galileo Galilei
+///
+"I have never met a man so ignorant that I couldn't learn something from him." - Galileo Galilei
+///
+"Where the senses fail us, reason must step in." - Galileo Galilei
+///
+"Philosophy is written in that great book which ever lies before our eyes—I mean the universe." - Galileo Galilei
+///
+"The sun, with all those planets revolving around it and depending on it, can still ripen a bunch of grapes as if it had nothing else in the universe to do." - Galileo Galilei
+///
+"We cannot teach people anything; we can only help them discover it within themselves." - Galileo Galilei
+///
+"Doubt is the father of invention." - Galileo Galilei
+///
+"The Milky Way is nothing else but a mass of innumerable stars planted together in clusters." - Galileo Galilei
+///
+"I have loved the stars too fondly to be fearful of the night." - Galileo Galilei
+///
+"By denying scientific principles, one may maintain any paradox." - Galileo Galilei
+///
+"I am inclined to believe that the authority of philosophers should lie only in their ability to persuade by reason." - Galileo Galilei
+///
+"Nature is relentless and unchangeable, and it is indifferent as to whether its hidden reasons and actions are understandable to man or not." - Galileo Galilei
+///
 "Be the change that you wish to see in the world." - Mahatma Gandhi
 ///
 "An eye for an eye only ends up making the whole world blind." - Mahatma Gandhi
@@ -667,6 +823,86 @@ The pain of parting is nothing to the joy of meeting again." - Charles Dickens
 ///
 "There is no path to peace. Peace is the path." - Mahatma Gandhi
 ///
+"Don’t compare yourself with anyone in this world. If you do so, you are insulting yourself." - Bill Gates
+///
+"Success is a lousy teacher. It seduces smart people into thinking they can’t lose." - Bill Gates
+///
+"Life is not fair; get used to it." - Bill Gates
+///
+"As we look ahead into the next century, leaders will be those who empower others." - Bill Gates
+///
+"Patience is a key element of success." - Bill Gates
+///
+"It’s fine to celebrate success, but it is more important to heed the lessons of failure." - Bill Gates
+///
+"Your most unhappy customers are your greatest source of learning." - Bill Gates
+///
+"If you are born poor it’s not your mistake, but if you die poor it’s your mistake." - Bill Gates
+///
+"To win big, you sometimes have to take big risks." - Bill Gates
+///
+"Technology is just a tool. In terms of getting the kids working together and motivating them, the teacher is the most important." - Bill Gates
+///
+"I choose a lazy person to do a hard job. Because a lazy person will find an easy way to do it." - Bill Gates
+///
+"We always overestimate the change that will occur in the next two years and underestimate the change that will occur in the next ten." - Bill Gates
+///
+"Power comes not from knowledge kept but from knowledge shared." - Bill Gates
+///
+"If you can’t make it good, at least make it look good." - Bill Gates
+///
+"Discrimination has a lot of layers that make it tough for minorities to get a leg up." - Bill Gates
+///
+"Expectations are a form of first-class truth: If people believe it, it’s true." - Bill Gates
+///
+"Effective philanthropy requires a lot of time and creativity—the same kind of focus and skills that building a business requires." - Bill Gates
+///
+"DNA is like a computer program but far, far more advanced than any software ever created." - Bill Gates
+///
+"Most people overestimate what they can do in one year and underestimate what they can do in ten years." - Bill Gates
+///
+"Don’t make the same decision twice. Spend time and thought to make a solid decision the first time so that you don’t revisit the issue unnecessarily." - Bill Gates
+///
+"Intelligence is the ability to adapt to change." - Stephen Hawking
+///
+"However difficult life may seem, there is always something you can do and succeed at." - Stephen Hawking
+///
+"Life would be tragic if it weren’t funny." - Stephen Hawking
+///
+"The greatest enemy of knowledge is not ignorance; it is the illusion of knowledge." - Stephen Hawking
+///
+"It surprises me how disinterested we are today about things like physics, space, the universe, and philosophy of our existence." - Stephen Hawking
+///
+"Quiet people have the loudest minds." - Stephen Hawking
+///
+"My goal is simple. It is a complete understanding of the universe, why it is as it is, and why it exists at all." - Stephen Hawking
+///
+"We are just an advanced breed of monkeys on a minor planet of a very average star." - Stephen Hawking
+///
+"People who boast about their IQ are losers." - Stephen Hawking
+///
+"Without imperfection, you or I would not exist." - Stephen Hawking
+///
+"Time and space are finite in extent, but they don’t have any boundary or edge. They would be like the surface of the Earth but with two more dimensions." - Stephen Hawking
+///
+"Even if there is only one possible unified theory, it is just a set of rules and equations." - Stephen Hawking
+///
+"Science is not only a disciple of reason but also one of romance and passion." - Stephen Hawking
+///
+"It matters if you just don’t give up." - Stephen Hawking
+///
+"I believe alien life is quite common in the universe, although intelligent life is less so." - Stephen Hawking
+///
+"Work gives you meaning and purpose, and life is empty without it." - Stephen Hawking
+///
+"Remember to look up at the stars and not down at your feet." - Stephen Hawking
+///
+"There is no unique picture of reality." - Stephen Hawking
+///
+"Black holes are not as black as they are painted." - Stephen Hawking
+///
+"Not only does God play dice, but... he sometimes throws them where they cannot be seen." - Stephen Hawking
+///
 ”Life happens wherever you are, whether you make it or not.” - Uncle Iroh
 ///
 “Pride is not the opposite of shame, but its source.” - Uncle Iroh
@@ -686,6 +922,46 @@ The pain of parting is nothing to the joy of meeting again." - Charles Dickens
 "Pride is not the opposite of shame, but its source. True humility is the only antidote to shame." - Uncle Iroh
 ///
 "Life happens wherever you are, whether you make it or not." - Uncle Iroh
+///
+"Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work." - Steve Jobs
+///
+"Stay hungry. Stay foolish." - Steve Jobs
+///
+"Don’t let the noise of others’ opinions drown out your own inner voice." - Steve Jobs
+///
+"Be a yardstick of quality. Some people aren’t used to an environment where excellence is expected." - Steve Jobs
+///
+"Have the courage to follow your heart and intuition. They somehow already know what you truly want to become." - Steve Jobs
+///
+"Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose." - Steve Jobs
+///
+"The people who are crazy enough to think they can change the world are the ones who do." - Steve Jobs
+///
+"Creativity is just connecting things." - Steve Jobs
+///
+"Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple." - Steve Jobs
+///
+"Innovation distinguishes between a leader and a follower." - Steve Jobs
+///
+"Design is not just what it looks like and feels like. Design is how it works." - Steve Jobs
+///
+"I’m convinced that about half of what separates the successful entrepreneurs from the non-successful ones is pure perseverance." - Steve Jobs
+///
+"Great things in business are never done by one person. They’re done by a team of people." - Steve Jobs
+///
+"Quality is more important than quantity. One home run is much better than two doubles." - Steve Jobs
+///
+"Sometimes life hits you in the head with a brick. Don’t lose faith." - Steve Jobs
+///
+"The journey is the reward." - Steve Jobs
+///
+"Your time is limited, so don’t waste it living someone else’s life." - Steve Jobs
+///
+"We’re here to put a dent in the universe. Otherwise, why else even be here?" - Steve Jobs
+///
+"You can’t connect the dots looking forward; you can only connect them looking backward." - Steve Jobs
+///
+"My favorite things in life don’t cost any money. It’s really clear that the most precious resource we all have is time." - Steve Jobs
 ///
 "The privilege of a lifetime is to become who you truly are." - Carl Jung
 ///
@@ -746,6 +1022,46 @@ The pain of parting is nothing to the joy of meeting again." - Charles Dickens
 "Whatever is rejected from the self, appears in the world as an event." - Carl Jung
 ///
 "Faith, hope, love, and insight are the highest achievements of human effort. They are found and given by experience." - Carl Jung
+///
+"Science is organized knowledge. Wisdom is organized life." - Immanuel Kant
+///
+"Act only according to that maxim whereby you can, at the same time, will that it should become a universal law." - Immanuel Kant
+///
+"Happiness is not an ideal of reason, but of imagination." - Immanuel Kant
+///
+"Morality is not the doctrine of how we may make ourselves happy, but how we may make ourselves worthy of happiness." - Immanuel Kant
+///
+"Two things awe me most, the starry sky above me and the moral law within me." - Immanuel Kant
+///
+"Out of the crooked timber of humanity, no straight thing was ever made." - Immanuel Kant
+///
+"All our knowledge begins with the senses, proceeds then to the understanding, and ends with reason. There is nothing higher than reason." - Immanuel Kant
+///
+"Live your life as though your every act were to become a universal law." - Immanuel Kant
+///
+"Ingratitude is the essence of vileness." - Immanuel Kant
+///
+"Freedom is the faculty to choose that which is good with reason." - Immanuel Kant
+///
+"He who is cruel to animals becomes hard also in his dealings with men." - Immanuel Kant
+///
+"Immaturity is the incapacity to use one's intelligence without the guidance of another." - Immanuel Kant
+///
+"Experience without theory is blind, but theory without experience is mere intellectual play." - Immanuel Kant
+///
+"We can judge the heart of a man by his treatment of animals." - Immanuel Kant
+///
+"By a lie, a man annihilates his dignity as a man." - Immanuel Kant
+///
+"All the interests of my reason, speculative as well as practical, combine in the following three questions: What can I know? What ought I to do? What may I hope?" - Immanuel Kant
+///
+"It is not God's will merely that we should be happy, but that we should make ourselves happy." - Immanuel Kant
+///
+"The death of dogma is the birth of morality." - Immanuel Kant
+///
+"Man must be disciplined, for he is by nature raw and wild." - Immanuel Kant
+///
+"Always recognize that human individuals are ends, and do not use them as means to your end." - Immanuel Kant
 ///
 “Darkness cannot drive out darkness: only light can do that. Hate cannot drive out hate: only love can do that.” - Martin Luther King Jr.
 ///
@@ -1017,6 +1333,46 @@ The pain of parting is nothing to the joy of meeting again." - Charles Dickens
 ///
 "Your heart is your greatest teacher." - Rebbe Nachman
 ///
+"If I have seen further, it is by standing on the shoulders of giants." - Isaac Newton
+///
+"Truth is ever to be found in the simplicity, and not in the multiplicity and confusion of things." - Isaac Newton
+///
+"Gravity explains the motions of the planets, but it cannot explain who sets the planets in motion." - Isaac Newton
+///
+"Tact is the art of making a point without making an enemy." - Isaac Newton
+///
+"What we know is a drop, what we don't know is an ocean." - Isaac Newton
+///
+"A man may imagine things that are false, but he can only understand things that are true." - Isaac Newton
+///
+"I can calculate the motion of heavenly bodies, but not the madness of people." - Isaac Newton
+///
+"Live your life as an exclamation rather than an explanation." - Isaac Newton
+///
+"Nature is pleased with simplicity. And nature is no dummy." - Isaac Newton
+///
+"To every action, there is always opposed an equal reaction." - Isaac Newton
+///
+"Errors are not in the art but in the artificers." - Isaac Newton
+///
+"To myself I am only a child playing on the beach, while vast oceans of truth lie undiscovered before me." - Isaac Newton
+///
+"Plato is my friend, Aristotle is my friend, but my greatest friend is truth." - Isaac Newton
+///
+"Truth is the offspring of silence and meditation." - Isaac Newton
+///
+"If others would think as hard as I did, then they would get similar results." - Isaac Newton
+///
+"In the absence of any other proof, the thumb alone would convince me of God’s existence." - Isaac Newton
+///
+"The more time and devotion one spends in the worship of false gods, the less he is able to spend in that of the true one." - Isaac Newton
+///
+"He who thinks half-heartedly will not believe in God; but he who really thinks has to believe in God." - Isaac Newton
+///
+"Truth is ever to be found in simplicity, and not in the multiplicity and confusion of things." - Isaac Newton
+///
+"Every particle of matter attracts every other particle with a force directly proportional to the product of their masses." - Isaac Newton
+///
 "He who has a why to live can bear almost any how." - Friedrich Nietzsche
 ///
 "That which does not kill us makes us stronger." - Friedrich Nietzsche
@@ -1077,6 +1433,46 @@ The pain of parting is nothing to the joy of meeting again." - Charles Dickens
 ///
 "He who climbs upon the highest mountains laughs at all tragedies, real or imaginary." - Friedrich Nietzsche
 ///
+"Everything you can imagine is real." - Pablo Picasso
+///
+"Action is the foundational key to all success." - Pablo Picasso
+///
+"Every child is an artist. The problem is how to remain an artist once he grows up." - Pablo Picasso
+///
+"Learn the rules like a pro, so you can break them like an artist." - Pablo Picasso
+///
+"Inspiration exists, but it has to find you working." - Pablo Picasso
+///
+"It takes a long time to become young." - Pablo Picasso
+///
+"Art washes away from the soul the dust of everyday life." - Pablo Picasso
+///
+"Others have seen what is and asked why. I have seen what could be and asked why not." - Pablo Picasso
+///
+"Only put off until tomorrow what you are willing to die having left undone." - Pablo Picasso
+///
+"I paint objects as I think them, not as I see them." - Pablo Picasso
+///
+"Good artists copy, great artists steal." - Pablo Picasso
+///
+"Every positive value has its price in negative terms... the genius of Einstein leads to Hiroshima." - Pablo Picasso
+///
+"Painting is just another way of keeping a diary." - Pablo Picasso
+///
+"Art is not the application of a canon of beauty but what the instinct and the brain can conceive beyond any canon." - Pablo Picasso
+///
+"You don’t make art, you find it." - Pablo Picasso
+///
+"Colors, like features, follow the changes of the emotions." - Pablo Picasso
+///
+"I begin with an idea, and then it becomes something else." - Pablo Picasso
+///
+"The purpose of art is washing the dust of daily life off our souls." - Pablo Picasso
+///
+"Art is the lie that enables us to realize the truth." - Pablo Picasso
+///
+"To draw, you must close your eyes and sing." - Pablo Picasso
+///
 "Charms strike the sight, but merit wins the soul." - Alexander Pope
 ///
 "Charms strike the sight, but merit wins the soul." - Alexander Pope
@@ -1104,6 +1500,46 @@ The pain of parting is nothing to the joy of meeting again." - Charles Dickens
 "You are not a drop in the ocean; you are the entire ocean in a drop." - Zat Rana
 ///
 "Your journey is not about finding yourself; it’s about creating yourself." - Zat Rana
+///
+"The only thing we have to fear is fear itself." - Franklin D. Roosevelt
+///
+"Men are not prisoners of fate, but only prisoners of their own minds." - Franklin D. Roosevelt
+///
+"Happiness lies in the joy of achievement and the thrill of creative effort." - Franklin D. Roosevelt
+///
+"When you reach the end of your rope, tie a knot in it and hang on." - Franklin D. Roosevelt
+///
+"The test of our progress is not whether we add more to the abundance of those who have much, it is whether we provide enough for those who have too little." - Franklin D. Roosevelt
+///
+"In the truest sense, freedom cannot be bestowed; it must be achieved." - Franklin D. Roosevelt
+///
+"It is a terrible thing to look over your shoulder when you are trying to lead—and find no one there." - Franklin D. Roosevelt
+///
+"The virtues are lost in self-interest as rivers are lost in the sea." - Franklin D. Roosevelt
+///
+"The only thing worse than a dictator is a dictator in the making." - Franklin D. Roosevelt
+///
+"We are not attacking the problems of the day. We are merely bailing out the bad spots and letting the bad spots grow worse." - Franklin D. Roosevelt
+///
+"The liberty of a democracy is not safe if the people tolerate the growth of private power to a point where it becomes stronger than their democratic state itself." - Franklin D. Roosevelt
+///
+"Competition has been shown to be useful up to a certain point and no further, but cooperation, which is the thing we must strive for today, begins where competition leaves off." - Franklin D. Roosevelt
+///
+"Physical strength can never permanently withstand the impact of spiritual force." - Franklin D. Roosevelt
+///
+"Repetition does not transform a lie into a truth." - Franklin D. Roosevelt
+///
+"The generation of Americans born after the turn of the century have a rendezvous with destiny." - Franklin D. Roosevelt
+///
+"Human kindness has never weakened the stamina or softened the fiber of a free people." - Franklin D. Roosevelt
+///
+"The school is the last expenditure upon which America should be willing to economize." - Franklin D. Roosevelt
+///
+"Courage is not the absence of fear, but rather the assessment that something else is more important than fear." - Franklin D. Roosevelt
+///
+"Freedom means the supremacy of human rights everywhere. Our support goes to those who struggle to gain those rights or keep them." - Franklin D. Roosevelt
+///
+"We have always held to the hope, the belief, the conviction that there is a better life, a better world, beyond the horizon." - Franklin D. Roosevelt
 ///
 “If you want to know what a man's like, take a good look at how he treats his inferiors, not his equals.” - J.K. Rowling
 ///
@@ -1153,6 +1589,86 @@ The pain of parting is nothing to the joy of meeting again." - Charles Dickens
 ///
 "Travel brings power and love back into your life." - Rumi
 ///
+"The cosmos is within us. We are made of star-stuff." - Carl Sagan
+///
+"Somewhere, something incredible is waiting to be known." - Carl Sagan
+///
+"Imagination will often carry us to worlds that never were. But without it, we go nowhere." - Carl Sagan
+///
+"Extraordinary claims require extraordinary evidence." - Carl Sagan
+///
+"We are like butterflies who flutter for a day and think it is forever." - Carl Sagan
+///
+"For small creatures such as we, the vastness is bearable only through love." - Carl Sagan
+///
+"The sky calls to us. If we do not destroy ourselves, we will one day venture to the stars." - Carl Sagan
+///
+"Science is not only compatible with spirituality; it is a profound source of spirituality." - Carl Sagan
+///
+"Extinction is the rule. Survival is the exception." - Carl Sagan
+///
+"Absence of evidence is not evidence of absence." - Carl Sagan
+///
+"It is far better to grasp the universe as it really is than to persist in delusion, however satisfying and reassuring." - Carl Sagan
+///
+"We are a way for the cosmos to know itself." - Carl Sagan
+///
+"Every one of us is, in the cosmic perspective, precious." - Carl Sagan
+///
+"Understanding is a kind of ecstasy." - Carl Sagan
+///
+"If you wish to make an apple pie from scratch, you must first invent the universe." - Carl Sagan
+///
+"In a demon-haunted world, science is a candle in the dark." - Carl Sagan
+///
+"Books break the shackles of time, proof that humans can work magic." - Carl Sagan
+///
+"The universe seems neither benign nor hostile, merely indifferent." - Carl Sagan
+///
+"Look again at that dot. That's here. That's home. That's us." - Carl Sagan
+///
+"We are all connected: to each other biologically, to the Earth chemically, to the rest of the universe atomically." - Carl Sagan
+///
+"Man is condemned to be free; because once thrown into the world, he is responsible for everything he does." - Jean-Paul Sartre
+///
+"Existence precedes essence." - Jean-Paul Sartre
+///
+"Freedom is what you do with what's been done to you." - Jean-Paul Sartre
+///
+"If you're lonely when you're alone, you're in bad company." - Jean-Paul Sartre
+///
+"Life has no meaning a priori… It is up to you to give it a meaning, and value is nothing but the meaning that you choose." - Jean-Paul Sartre
+///
+"There may be more beautiful times, but this one is ours." - Jean-Paul Sartre
+///
+"Man is nothing else but what he makes of himself." - Jean-Paul Sartre
+///
+"Commitment is an act, not a word." - Jean-Paul Sartre
+///
+"We do not judge the people we love." - Jean-Paul Sartre
+///
+"Man is fully responsible for his nature and his choices." - Jean-Paul Sartre
+///
+"The best work is not what is most difficult for you; it is what you do best." - Jean-Paul Sartre
+///
+"To know what life is worth you have to risk it once in a while." - Jean-Paul Sartre
+///
+"Words are more treacherous and powerful than we think." - Jean-Paul Sartre
+///
+"Every age has its own poetry; in every age, the circumstances of history choose a nation, a race, a class to take up the torch by creating situations that can be expressed or transcended only through poetry." - Jean-Paul Sartre
+///
+"I am my choices." - Jean-Paul Sartre
+///
+"Like all dreamers, I mistook disenchantment for truth." - Jean-Paul Sartre
+///
+"Three o’clock is always too late or too early for anything you want to do." - Jean-Paul Sartre
+///
+"One is still what one is going to cease to be, and already what one is going to become." - Jean-Paul Sartre
+///
+"Man can will nothing unless he has first understood that he must count on no one but himself." - Jean-Paul Sartre
+///
+"Life begins on the other side of despair." - Jean-Paul Sartre
+///
 "Today was good. Today was fun. Tomorrow is another one." - Dr. Seuss
 ///
 "I like nonsense; it wakes up the brain cells. Fantasy is a necessary ingredient in living." - Dr. Seuss
@@ -1198,6 +1714,46 @@ The pain of parting is nothing to the joy of meeting again." - Charles Dickens
 “A ship is safe in harbor, but that's not what ships are for.” - John A. Shedd
 ///
 “Opportunities are seldom labeled.” - John A. Shedd
+///
+"To be, or not to be, that is the question." - William Shakespeare
+///
+"All the world's a stage, and all the men and women merely players." - William Shakespeare
+///
+"Some are born great, some achieve greatness, and some have greatness thrust upon them." - William Shakespeare
+///
+"Love looks not with the eyes, but with the mind, and therefore is winged Cupid painted blind." - William Shakespeare
+///
+"Though she be but little, she is fierce!" - William Shakespeare
+///
+"The course of true love never did run smooth." - William Shakespeare
+///
+"What's in a name? That which we call a rose by any other name would smell as sweet." - William Shakespeare
+///
+"This above all: to thine own self be true." - William Shakespeare
+///
+"Better three hours too soon than a minute too late." - William Shakespeare
+///
+"Some rise by sin, and some by virtue fall." - William Shakespeare
+///
+"The robbed that smiles steals something from the thief." - William Shakespeare
+///
+"There is nothing either good or bad, but thinking makes it so." - William Shakespeare
+///
+"How far that little candle throws its beams! So shines a good deed in a weary world." - William Shakespeare
+///
+"Parting is such sweet sorrow, that I shall say good night till it be morrow." - William Shakespeare
+///
+"Things done well and with a care, exempt themselves from fear." - William Shakespeare
+///
+"Give every man thy ear, but few thy voice." - William Shakespeare
+///
+"Men at some time are masters of their fates." - William Shakespeare
+///
+"Expectation is the root of all heartache." - William Shakespeare
+///
+"We know what we are, but know not what we may be." - William Shakespeare
+///
+"Our doubts are traitors, and make us lose the good we oft might win, by fearing to attempt." - William Shakespeare
 ///
 "The only true wisdom is in knowing you know nothing." - Socrates
 ///
@@ -1594,6 +2150,46 @@ The pain of parting is nothing to the joy of meeting again." - Charles Dickens
 "We are all in the gutter, but some of us are looking at the stars." - Oscar Wilde
 ///
 "To love oneself is the beginning of a lifelong romance." - Oscar Wilde
+///
+"Turn your wounds into wisdom." - Oprah Winfrey
+///
+"The biggest adventure you can ever take is to live the life of your dreams." - Oprah Winfrey
+///
+"You become what you believe." - Oprah Winfrey
+///
+"Surround yourself only with people who are going to lift you higher." - Oprah Winfrey
+///
+"Passion is energy. Feel the power that comes from focusing on what excites you." - Oprah Winfrey
+///
+"Where there is no struggle, there is no strength." - Oprah Winfrey
+///
+"Real integrity is doing the right thing, knowing that nobody’s going to know whether you did it or not." - Oprah Winfrey
+///
+"The more you praise and celebrate your life, the more there is in life to celebrate." - Oprah Winfrey
+///
+"Doing the best at this moment puts you in the best place for the next moment." - Oprah Winfrey
+///
+"You can have it all. Just not all at once." - Oprah Winfrey
+///
+"Breathe. Let go. And remind yourself that this very moment is the only one you know you have for sure." - Oprah Winfrey
+///
+"Challenges are gifts that force us to search for a new center of gravity. Don’t fight them. Just find a new way to stand." - Oprah Winfrey
+///
+"The key to realizing a dream is to focus not on success but on significance." - Oprah Winfrey
+///
+"What I know for sure is that what you give comes back to you." - Oprah Winfrey
+///
+"Think like a queen. A queen is not afraid to fail. Failure is another stepping stone to greatness." - Oprah Winfrey
+///
+"When you undervalue what you do, the world will undervalue who you are." - Oprah Winfrey
+///
+"Forgiveness is giving up the hope that the past could have been any different." - Oprah Winfrey
+///
+"Be thankful for what you have; you'll end up having more." - Oprah Winfrey
+///
+"I trust that everything happens for a reason, even when we’re not wise enough to see it." - Oprah Winfrey
+///
+"Create the highest, grandest vision possible for your life, because you become what you believe." - Oprah Winfrey
 ///
 "The longer I live, the more beautiful life becomes." - Frank Lloyd Wright
 ///
