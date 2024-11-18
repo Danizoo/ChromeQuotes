@@ -187,6 +187,46 @@
 ///
 "A man without ethics is a wild beast loosed upon this world." - Albert Camus
 ///
+"A girl should be two things: classy and fabulous." - Coco Chanel
+///
+"Fashion fades, only style remains the same." - Coco Chanel
+///
+"The most courageous act is still to think for yourself. Aloud." - Coco Chanel
+///
+"Success is most often achieved by those who don’t know that failure is inevitable." - Coco Chanel
+///
+"Simplicity is the keynote of all true elegance." - Coco Chanel
+///
+"You can be gorgeous at thirty, charming at forty, and irresistible for the rest of your life." - Coco Chanel
+///
+"Luxury must be comfortable, otherwise it is not luxury." - Coco Chanel
+///
+"I don't care what you think about me. I don’t think about you at all." - Coco Chanel
+///
+"Elegance does not consist in putting on a new dress." - Coco Chanel
+///
+"Don’t spend time beating on a wall, hoping to transform it into a door." - Coco Chanel
+///
+"Fashion is not something that exists in dresses only. Fashion is in the sky, in the street, fashion has to do with ideas, the way we live, what is happening." - Coco Chanel
+///
+"Some people think luxury is the opposite of poverty. It is not. It is the opposite of vulgarity." - Coco Chanel
+///
+"In order to be irreplaceable, one must always be different." - Coco Chanel
+///
+"Elegance is refusal." - Coco Chanel
+///
+"There are people who have money and people who are rich." - Coco Chanel
+///
+"Great loves too must be endured." - Coco Chanel
+///
+"How many cares one loses when one decides not to be something but to be someone." - Coco Chanel
+///
+"The best color in the whole world is the one that looks good on you." - Coco Chanel
+///
+"Dress shabbily and they remember the dress; dress impeccably and they remember the woman." - Coco Chanel
+///
+"Nature gives you the face you have at twenty; it is up to you to merit the face you have at fifty." - Coco Chanel
+///
 "In the midst of movement and chaos, keep stillness inside of you." - Deepak Chopra
 ///
 "The more we seek the pure truth, the more we find it within ourselves." - Deepak Chopra
@@ -670,6 +710,46 @@ The pain of parting is nothing to the joy of meeting again." - Charles Dickens
 "The world is full of mysteries, and to embrace them is the true joy of science." - Richard Feynman
 ///
 "The only way to make sense out of change is to plunge into it, move with it, and join the dance." - Richard Feynman
+///
+"Whether you think you can, or you think you can’t—you’re right." - Henry Ford
+///
+"Coming together is a beginning, staying together is progress, and working together is success." - Henry Ford
+///
+"Anyone who stops learning is old, whether at twenty or eighty. Anyone who keeps learning stays young." - Henry Ford
+///
+"Don’t find fault, find a remedy; anybody can complain." - Henry Ford
+///
+"Failure is simply the opportunity to begin again, this time more intelligently." - Henry Ford
+///
+"The only real mistake is the one from which we learn nothing." - Henry Ford
+///
+"Obstacles are those frightful things you see when you take your eyes off your goal." - Henry Ford
+///
+"My best friend is the one who brings out the best in me." - Henry Ford
+///
+"You can’t build a reputation on what you are going to do." - Henry Ford
+///
+"Quality means doing it right when no one is looking." - Henry Ford
+///
+"Chop your own wood and it will warm you twice." - Henry Ford
+///
+"If I had asked people what they wanted, they would have said faster horses." - Henry Ford
+///
+"Thinking is the hardest work there is, which is probably the reason why so few engage in it." - Henry Ford
+///
+"There is joy in work. There is no happiness except in the realization that we have accomplished something." - Henry Ford
+///
+"Vision without execution is just hallucination." - Henry Ford
+///
+"Nothing is particularly hard if you divide it into small jobs." - Henry Ford
+///
+"The whole secret of a successful life is to find out what is one’s destiny to do, and then do it." - Henry Ford
+///
+"Enthusiasm is the yeast that makes your hopes rise to the stars." - Henry Ford
+///
+"It has been my observation that most people get ahead during the time that others waste." - Henry Ford
+///
+"Money is like an arm or leg—use it or lose it." - Henry Ford
 ///
 "Tell me and I forget, teach me and I may remember, involve me and I learn." - Benjamin Franklin
 ///
@@ -1291,13 +1371,127 @@ The pain of parting is nothing to the joy of meeting again." - Charles Dickens
 ///
 "I don't like that man. I must get to know him better." - Abraham Lincoln
 ///
+"Always remember, your focus determines your reality." - George Lucas
+///
+"You have to find something that you love enough to be able to take risks, jump over the hurdles, and break through the brick walls." - George Lucas
+///
+"The best way to pursue happiness is to help other people. Nothing else will make you happier." - George Lucas
+///
+"Dreams are extremely important. You can’t do it unless you imagine it." - George Lucas
+///
+"Fear is the path to the dark side. Fear leads to anger. Anger leads to hate. Hate leads to suffering." - George Lucas
+///
+"Working hard is very important. You’re not going to get anywhere without working extremely hard." - George Lucas
+///
+"You can't do it unless you can imagine it." - George Lucas
+///
+"Train yourself to let go of everything you fear to lose." - George Lucas
+///
+"Talent is only a starting point." - George Lucas
+///
+"You simply have to put one foot in front of the other and keep going." - George Lucas
+///
+"We are all living in cages with the door wide open." - George Lucas
+///
+"Don’t avoid the cliches—they are cliches because they work!" - George Lucas
+///
+"Everybody has talent, it’s just a matter of moving around until you’ve discovered what it is." - George Lucas
+///
+"If you want to be successful in a particular field, perseverance is one of the key qualities." - George Lucas
+///
+"The secret to film is that it’s an illusion." - George Lucas
+///
+"The ability to speak does not make you intelligent." - George Lucas
+///
+"Good luck has its storms." - George Lucas
+///
+"Storytelling is about two things; it’s about character and plot." - George Lucas
+///
+"Even the smallest person can change the course of the future." - George Lucas
+///
+"You have to find your own style and voice." - George Lucas
+///
 “I'm selfish, impatient and a little insecure. I make mistakes, I am out of control and at times hard to handle. But if you can't handle me at my worst, then you sure as hell don't deserve me at my best.” - Marilyn Monroe
 ///
 “I believe that everything happens for a reason. People change so that you can learn to let go, things go wrong so that you appreciate them when they're right, you believe lies so you eventually learn to trust no one but yourself, and sometimes good things fall apart so better things can fall together.” - Marilyn Monroe
 ///
 “Imperfection is beauty, madness is genius and it's better to be absolutely ridiculous than absolutely boring.” - Marilyn Monroe
 ///
-"The whole world is a narrow bridge, and the main thing is to not be afraid at all." - Rebbe Nachman
+"If you only read the books that everyone else is reading, you can only think what everyone else is thinking." - Haruki Murakami
+///
+"Memories warm you up from the inside. But they also tear you apart." - Haruki Murakami
+///
+"Pain is inevitable. Suffering is optional." - Haruki Murakami
+///
+"Whatever it is you're seeking won't come in the form you're expecting." - Haruki Murakami
+///
+"Nobody likes being alone that much. I don't go out of my way to make friends, that's all. It just leads to disappointment." - Haruki Murakami
+///
+"Death is not the opposite of life, but a part of it." - Haruki Murakami
+///
+"What happens when people open their hearts? They get better." - Haruki Murakami
+///
+"Lost opportunities, lost possibilities, feelings we can never get back. That’s part of what it means to be alive." - Haruki Murakami
+///
+"I dream. Sometimes I think that's the only right thing to do." - Haruki Murakami
+///
+"Sometimes fate is like a small sandstorm that keeps changing directions." - Haruki Murakami
+///
+"Everyone, deep in their hearts, is waiting for the end of the world to come." - Haruki Murakami
+///
+"If you remember me, then I don’t care if everyone else forgets." - Haruki Murakami
+///
+"Even if we could turn back, we’d probably never end up where we started." - Haruki Murakami
+///
+"It's not the content of our dreams that gives our lives meaning. It's the fact that in our dreams, we are free." - Haruki Murakami
+///
+"Each person feels pain in his own way, each has his own scars." - Haruki Murakami
+///
+"People leave strange little memories of themselves behind when they die." - Haruki Murakami
+///
+"Sometimes you’re just the sweetest thing. Like Christmas, summer vacation, and a brand-new puppy all rolled into one." - Haruki Murakami
+///
+"No matter how much suffering you went through, you never wanted to let go of those memories." - Haruki Murakami
+///
+"Silence, I discover, is something you can actually hear." - Haruki Murakami
+///
+"Taking crazy things seriously is a serious waste of time." - Haruki Murakami
+///
+"Everything has boundaries. The same holds true with pain." - Haruki Murakami
+///
+"Life is not like water. Things in life don’t necessarily flow over the shortest possible route." - Haruki Murakami
+///
+"You can hide memories, but you can't erase the history that produced them." - Haruki Murakami
+///
+"If you can't understand it without an explanation, you can't understand it with an explanation." - Haruki Murakami
+///
+"I’m not afraid of dying. What I’m afraid of is not being able to live." - Haruki Murakami
+///
+"People fall in love without reason, without even wanting to. You can’t predict it. That’s love." - Haruki Murakami
+///
+"Time moves in its own special way in the middle of the night." - Haruki Murakami
+///
+"Life doesn’t require ideals. It requires standards of action." - Haruki Murakami
+///
+"Anyone who falls in love is searching for the missing pieces of themselves." - Haruki Murakami
+///
+"Sometimes when I think of someone, I see their shadow or feel their warmth, and my heart skips a beat." - Haruki Murakami
+///
+"Our reality is an infinite layered onion, every layer an invisible part of the whole." - Haruki Murakami
+///
+"No truth can cure the sorrow we feel from losing someone we love." - Haruki Murakami
+///
+"The loneliest moment in someone’s life is when they are watching their world fall apart." - Haruki Murakami
+///
+"Music brings people together and breaks barriers like no words ever can." - Haruki Murakami
+///
+"A certain type of perfection can only be realized through a limitless accumulation of the imperfect." - Haruki Murakami
+///
+"Memories are like stones, time and distance erode them like acid." - Haruki Murakami
+///
+"Sometimes a person has to go far to find their way home." - Haruki Murakami
+///
+"I often think that the night is more alive and more richly colored than the day." - Haruki Murakami
 ///
 "Nothing is as whole as a broken heart." - Rebbe Nachman
 ///
@@ -1320,10 +1514,6 @@ The pain of parting is nothing to the joy of meeting again." - Charles Dickens
 "True prayer is a matter of the heart." - Rebbe Nachman
 ///
 "Do not be afraid to tell your troubles to God." - Rebbe Nachman
-///
-"Everything that happens is for the good." - Rebbe Nachman
-///
-"It is not the actions of a person that matter, but the intention behind them." - Rebbe Nachman
 ///
 "One who believes in their ability to change is capable of great things." - Rebbe Nachman
 ///
@@ -1629,45 +1819,45 @@ The pain of parting is nothing to the joy of meeting again." - Charles Dickens
 ///
 "We are all connected: to each other biologically, to the Earth chemically, to the rest of the universe atomically." - Carl Sagan
 ///
-"Man is condemned to be free; because once thrown into the world, he is responsible for everything he does." - Jean-Paul Sartre
+"Man is condemned to be free; because once thrown into the world, he is responsible for everything he does." - Jean Paul Sartre
 ///
-"Existence precedes essence." - Jean-Paul Sartre
+"Existence precedes essence." - Jean Paul Sartre
 ///
-"Freedom is what you do with what's been done to you." - Jean-Paul Sartre
+"Freedom is what you do with what's been done to you." - Jean Paul Sartre
 ///
-"If you're lonely when you're alone, you're in bad company." - Jean-Paul Sartre
+"If you're lonely when you're alone, you're in bad company." - Jean Paul Sartre
 ///
-"Life has no meaning a priori… It is up to you to give it a meaning, and value is nothing but the meaning that you choose." - Jean-Paul Sartre
+"Life has no meaning a priori… It is up to you to give it a meaning, and value is nothing but the meaning that you choose." - Jean Paul Sartre
 ///
-"There may be more beautiful times, but this one is ours." - Jean-Paul Sartre
+"There may be more beautiful times, but this one is ours." - Jean Paul Sartre
 ///
-"Man is nothing else but what he makes of himself." - Jean-Paul Sartre
+"Man is nothing else but what he makes of himself." - Jean Paul Sartre
 ///
-"Commitment is an act, not a word." - Jean-Paul Sartre
+"Commitment is an act, not a word." - Jean Paul Sartre
 ///
-"We do not judge the people we love." - Jean-Paul Sartre
+"We do not judge the people we love." - Jean Paul Sartre
 ///
-"Man is fully responsible for his nature and his choices." - Jean-Paul Sartre
+"Man is fully responsible for his nature and his choices." - Jean Paul Sartre
 ///
-"The best work is not what is most difficult for you; it is what you do best." - Jean-Paul Sartre
+"The best work is not what is most difficult for you; it is what you do best." - Jean Paul Sartre
 ///
-"To know what life is worth you have to risk it once in a while." - Jean-Paul Sartre
+"To know what life is worth you have to risk it once in a while." - Jean Paul Sartre
 ///
-"Words are more treacherous and powerful than we think." - Jean-Paul Sartre
+"Words are more treacherous and powerful than we think." - Jean Paul Sartre
 ///
-"Every age has its own poetry; in every age, the circumstances of history choose a nation, a race, a class to take up the torch by creating situations that can be expressed or transcended only through poetry." - Jean-Paul Sartre
+"Every age has its own poetry; in every age, the circumstances of history choose a nation, a race, a class to take up the torch by creating situations that can be expressed or transcended only through poetry." - Jean Paul Sartre
 ///
-"I am my choices." - Jean-Paul Sartre
+"I am my choices." - Jean Paul Sartre
 ///
-"Like all dreamers, I mistook disenchantment for truth." - Jean-Paul Sartre
+"Like all dreamers, I mistook disenchantment for truth." - Jean Paul Sartre
 ///
-"Three o’clock is always too late or too early for anything you want to do." - Jean-Paul Sartre
+"Three o’clock is always too late or too early for anything you want to do." - Jean Paul Sartre
 ///
-"One is still what one is going to cease to be, and already what one is going to become." - Jean-Paul Sartre
+"One is still what one is going to cease to be, and already what one is going to become." - Jean Paul Sartre
 ///
-"Man can will nothing unless he has first understood that he must count on no one but himself." - Jean-Paul Sartre
+"Man can will nothing unless he has first understood that he must count on no one but himself." - Jean Paul Sartre
 ///
-"Life begins on the other side of despair." - Jean-Paul Sartre
+"Life begins on the other side of despair." - Jean Paul Sartre
 ///
 "Today was good. Today was fun. Tomorrow is another one." - Dr. Seuss
 ///
@@ -1814,6 +2004,36 @@ The pain of parting is nothing to the joy of meeting again." - Charles Dickens
 "To move the world we must move ourselves." - Socrates
 ///
 "If a man is proud of his wealth, he should not be praised until it is known how he employs it." - Socrates
+///
+"You shouldn’t dream your film, you should make it!" - Steven Spielberg
+///
+"All good ideas start out as bad ideas, that’s why it takes so long." - Steven Spielberg
+///
+"Your job is to create a world that lasts forever." - Steven Spielberg
+///
+"I don’t dream at night, I dream at day, I dream all day; I’m dreaming for a living." - Steven Spielberg
+///
+"You have many years ahead of you to create the dreams that we can’t even imagine dreaming." - Steven Spielberg
+///
+"The delicate balance of mentoring someone is not creating them in your own image, but giving them the opportunity to create themselves." - Steven Spielberg
+///
+"Movies are dreams. No matter how dark they are, they’re still dreams." - Steven Spielberg
+///
+"Technology can be our best friend, and technology can also be the biggest party pooper of our lives. It interrupts our own story." - Steven Spielberg
+///
+"I always like to think of the audience when I am directing. Because I am the audience." - Steven Spielberg
+///
+"Every time I go to a movie, it’s magic, no matter what the movie’s about." - Steven Spielberg
+///
+"The greatest thing that I can do is inspire young filmmakers and be inspired by them." - Steven Spielberg
+///
+"People have forgotten how to tell a story. Stories don’t have a middle or an end anymore. They usually have a beginning that never stops beginning." - Steven Spielberg
+///
+"Filmmaking is a chance to live many lifetimes." - Steven Spielberg
+///
+"I think every movie I’ve made has been a progression toward learning and discovering more about myself." - Steven Spielberg
+///
+"I don’t work to inspire. I work so that somebody else can inspire themselves." - Steven Spielberg
 ///
 "If you want to find the secrets of the universe, think in terms of energy, frequency, and vibration." - Nikola Tesla
 ///
