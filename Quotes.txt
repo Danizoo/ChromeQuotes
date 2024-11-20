@@ -1,3 +1,26 @@
+"Mathematics reveals its secrets only to those who approach it with pure love, for its own beauty." - Archimedes
+///
+"Rise above oneself and grasp the world." - Archimedes
+///
+"There are things which seem incredible to most men who have not studied mathematics." - Archimedes
+///
+"Those who claim to discover everything but produce no proofs of the same may be compared with those who resemble a person who hears indistinctly." - Archimedes
+///
+"There are things in the world which cannot be imagined or comprehended by those who are ignorant of mathematics." - Archimedes
+///
+"The laws of nature are but the mathematical thoughts of God." - Archimedes
+///
+"I am persuaded that if I were given a chance to explain my work, they would have pardoned my ingenuity." - Archimedes
+///
+"The screw may be called the first and simplest of machines." - Archimedes
+///
+"Geometry is the foundation of all physical laws." - Archimedes
+///
+"Pure geometry is the study of mathematical truths independent of the physical world." - Archimedes
+///
+"Mathematics has its own beauty, which only the initiated can perceive." - Archimedes
+///
+"Knowledge of the principles of science is the foundation of all true progress." - Archimedes
 ///
 "You have power over your mind, not outside events. Realize this, and you will find strength." - Marcus Aurelius
 ///
@@ -41,15 +64,12 @@
 ///
 "Receive without pride, let go without attachment." - Marcus Aurelius
 ///
-"Who is wise? One who learns from everyone, as it is said: 'From all my teachers I have grown wise.'" - Pirkei Avot 4:1
+"Who is wise? One who learns from everyone, as it is said: 'From all my teachers I have grown wise.
+Who is rich? One who is happy with what he has, as it is said: 'When you eat of the labor of your hands, you are happy, and it shall be well with you.
+Who is strong? One who conquers his inclination, as it is said: 'He who is slow to anger is better than the mighty, and he who rules his spirit than he who takes a city.
+Who is honored? One who honors others, as it is said: 'For those who honor Me, I will honor, and those who scorn Me shall be degraded.'" - Pirkei Avot 4:1
 ///
-"Who is rich? One who is happy with what he has, as it is said: 'When you eat of the labor of your hands, you are happy, and it shall be well with you.'" - Pirkei Avot 4:1
-///
-"Who is strong? One who conquers his inclination, as it is said: 'He who is slow to anger is better than the mighty, and he who rules his spirit than he who takes a city.'" - Pirkei Avot 4:1
-///
-"Who is honored? One who honors others, as it is said: 'For those who honor Me, I will honor, and those who scorn Me shall be degraded.'" - Pirkei Avot 4:1
-///
-"If I am not for myself, who will be for me? And when I am for myself alone, what am I? And if not now, when?" - Pirkei Avot 1:14
+"If I am not for myself, who will be for me? And when I am for myself alone, what am I? And if not now, then when?" - Pirkei Avot 1:14
 ///
 "Make for yourself a mentor, acquire for yourself a friend, and judge every person favorably." - Pirkei Avot 1:6
 ///
@@ -61,11 +81,9 @@
 ///
 "It is not your duty to finish the work, but neither are you free to neglect it." - Pirkei Avot 2:16
 ///
-"Turn it over and turn it over again, for everything is in it." (Referring to the Torah) - Pirkei Avot 5:22
-///
 "Jealousy, lust, and honor remove a person from the world." - Pirkei Avot 4:21
 ///
-"Be bold as a leopard, light as an eagle, swift as a deer, and strong as a lion to do the will of your Father in Heaven." - Pirkei Avot 5:23
+"Be bold as a leopard, light as an eagle, swift as a deer, and strong as a lion." - Pirkei Avot 5:23
 ///
 "In a place where there are no men, strive to be a man." - Pirkei Avot 2:6
 ///
@@ -73,9 +91,7 @@
 ///
 "The more flesh, the more worms; the more property, the more worry; the more study, the more wisdom." - Pirkei Avot 2:8
 ///
-"Do not judge your fellow until you have reached his place." - Pirkei Avot 2:4
-///
-"Envy, lust, and ambition shorten life." - Pirkei Avot 4:28
+"Do not judge your fellow until you have stood in his shoes." - Pirkei Avot 2:4
 ///
 "Do not be quick to anger." - Pirkei Avot 2:10
 ///
@@ -144,6 +160,46 @@
 "One of the huge mistakes people make is that they try to force an interest on themselves. You don’t choose your passions; your passions choose you." - Jeff Bezos
 ///
 "Be stubborn on vision, but flexible on journey." - Jeff Bezos
+///
+"An expert is a person who has made all the mistakes that can be made in a very narrow field." - Niels Bohr
+///
+"Prediction is very difficult, especially if it’s about the future." - Niels Bohr
+///
+"Every sentence I utter must be understood not as an affirmation, but as a question." - Niels Bohr
+///
+"The opposite of a fact is falsehood, but the opposite of one profound truth may very well be another profound truth." - Niels Bohr
+///
+"How wonderful that we have met with a paradox. Now we have some hope of making progress." - Niels Bohr
+///
+"Your theory is crazy, but it’s not crazy enough to be true." - Niels Bohr
+///
+"We are all agreed that your theory is crazy. The question which divides us is whether it is crazy enough to have a chance of being correct." - Niels Bohr
+///
+"Never express yourself more clearly than you are able to think." - Niels Bohr
+///
+"Physics is not about how the world is, it is about what we can say about the world." - Niels Bohr
+///
+"A physicist is just an atom’s way of looking at itself." - Niels Bohr
+///
+"The meaning of life consists in the fact that it makes no sense to say that life has no meaning." - Niels Bohr
+///
+"If quantum mechanics hasn’t profoundly shocked you, you haven’t understood it yet." - Niels Bohr
+///
+"There are some things so serious that you have to laugh at them." - Niels Bohr
+///
+"No, no, you’re not thinking; you’re just being logical." - Niels Bohr
+///
+"Technology has advanced more in the last thirty years than in the previous two thousand." - Niels Bohr
+///
+"The best weapon of a dictatorship is secrecy, but the best weapon of a democracy should be the weapon of openness." - Niels Bohr
+///
+"Every valuable human being must be a radical and a rebel, for what he must aim at is to make things better than they are." - Niels Bohr
+///
+"It is wrong to think that the task of physics is to find out how nature is. Physics concerns what we can say about nature." - Niels Bohr
+///
+"There are trivial truths and the great truths. The opposite of a trivial truth is plainly false. The opposite of a great truth is also true." - Niels Bohr
+///
+"Anyone who is not shocked by quantum theory has not understood it." - Niels Bohr
 ///
 "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment." - Buddha
 ///
@@ -960,6 +1016,46 @@ The pain of parting is nothing to the joy of meeting again." - Charles Dickens
 "Men are disturbed not by things, but by the view which they take of them" - Epictetus
 ///
 "Attach yourself to what is spiritually superior, regardless of what other people think or do" - Epictetus
+///
+"Mathematics is the language in which God has written the universe." - Leonhard Euler
+///
+"For since the fabric of the universe is most perfect and the work of a most wise Creator, nothing at all takes place in the universe in which some rule of maximum or minimum does not appear." - Leonhard Euler
+///
+"Nothing takes place in the world whose meaning is not that of some maximum or minimum." - Leonhard Euler
+///
+"To those who ask what I do, I answer: I do what pleases me." - Leonhard Euler
+///
+"God eternally geometrizes." - Leonhard Euler
+///
+"It is more important to have beauty in one’s equations than to have them fit experiment." - Leonhard Euler
+///
+"The study of nature is a perpetual feast for the soul." - Leonhard Euler
+///
+"Mathematics reveals its secrets only to those who approach it with pure love, for its own beauty." - Leonhard Euler
+///
+"The undeniable order and precision in the structure of the universe point to a Creator." - Leonhard Euler
+///
+"Our ideas of infinity arise from our inability to comprehend its actual nature." - Leonhard Euler
+///
+"Algebra is but written geometry, and geometry is but figured algebra." - Leonhard Euler
+///
+"In the divine art of mathematics, there is always a sublime simplicity." - Leonhard Euler
+///
+"Logic is the foundation of the exact sciences." - Leonhard Euler
+///
+"Everything we see in the physical world can be reduced to mathematical principles." - Leonhard Euler
+///
+"The joy of discovery is the single most important attribute of mathematics." - Leonhard Euler
+///
+"Equations are the most concise way of expressing natural phenomena." - Leonhard Euler
+///
+"Mathematics is the tool through which we understand the eternal laws of the cosmos." - Leonhard Euler
+///
+"True science is inseparable from true theology." - Leonhard Euler
+///
+"The elegance of mathematics is a testament to the wisdom of the Creator." - Leonhard Euler
+///
+"To explore the mysteries of numbers is to explore the mysteries of existence." - Leonhard Euler
 ///
 "The first principle is that you must not fool yourself, and you are the easiest person to fool." - Richard Feynman
 ///
@@ -1788,6 +1884,46 @@ The pain of parting is nothing to the joy of meeting again." - Charles Dickens
 "Even the smallest person can change the course of the future." - George Lucas
 ///
 "You have to find your own style and voice." - George Lucas
+///
+"Thoroughly conscious ignorance is the prelude to every real advance in science." - James Clerk Maxwell
+///
+"The only laws of matter are those which our minds must fabricate, and the only laws of mind are fabricated for it by matter." - James Clerk Maxwell
+///
+"In science, it is not the object of our study that changes, but the tools with which we look." - James Clerk Maxwell
+///
+"Happy is the man who can recognize in the work of today a connected portion of the work of life, and an embodiment of the work of eternity." - James Clerk Maxwell
+///
+"The more we progress in knowledge, the more we discover our ignorance." - James Clerk Maxwell
+///
+"Science is bound, by the everlasting vow of honor, to face fearlessly every problem which can be fairly presented to it." - James Clerk Maxwell
+///
+"All the mathematical sciences are founded on relations between physical laws and laws of numbers." - James Clerk Maxwell
+///
+"The aim of science is to reduce confusion to order." - James Clerk Maxwell
+///
+"One scientific epoch ended and another began with James Clerk Maxwell." - James Clerk Maxwell
+///
+"Mathematical reasoning may be regarded rather schematically as the exercise of a combination of two facilities, which we may call intuition and ingenuity." - James Clerk Maxwell
+///
+"The mind of man has perplexed itself with many hard questions. Is space infinite, and infinite or finite in extent? Is the material universe infinite in extent or finite?" - James Clerk Maxwell
+///
+"The number of independent variables required to express the conditions of a single particle is the number of degrees of freedom of a particle." - James Clerk Maxwell
+///
+"All knowledge that is not the real work of intuition or ingenuity belongs to the realm of pseudoscience." - James Clerk Maxwell
+///
+"Science is done best when it is seen as a creative endeavor." - James Clerk Maxwell
+///
+"Let no one enter here who is not well-versed in mathematics." - James Clerk Maxwell
+///
+"It is of great advantage to the student of any subject to read the original memoirs on that subject, for science is always most completely assimilated when it is in the nascent state." - James Clerk Maxwell
+///
+"The history of science is a history of dogged determination and brilliant insight." - James Clerk Maxwell
+///
+"In scientific discovery, there is a mixture of love for the subject and a need for clarity." - James Clerk Maxwell
+///
+"Science is not an arena for dogma but a quest for truth." - James Clerk Maxwell
+///
+"To explore the realm of the unknown, one must understand the boundaries of what is known." - James Clerk Maxwell
 ///
 “I'm selfish, impatient and a little insecure. I make mistakes, I am out of control and at times hard to handle. But if you can't handle me at my worst, then you sure as hell don't deserve me at my best.” - Marilyn Monroe
 ///
