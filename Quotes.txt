@@ -301,11 +301,11 @@
 ///
 "Our fatigue is often caused not by work, but by worry, frustration, and resentment." - Dale Carnegie
 ///
-"Don’t be distracted by criticism. Remember—the only taste of success some people have is when they take a bite out of you." - Dale Carnegie
+"Don’t be distracted by criticism. Remember, the only taste of success some people have is when they take a bite out of you." - Dale Carnegie
 ///
-"Any fool can criticize, condemn, and complain—and most fools do." - Dale Carnegie
+"Any fool can criticize, condemn, and complain, and most fools do." - Dale Carnegie
 ///
-"One of the most tragic things I know about human nature is that all of us tend to put off living. We are all dreaming of some magical rose garden over the horizon—instead of enjoying the roses blooming outside our windows today." - Dale Carnegie
+"One of the most tragic things I know about human nature is that all of us tend to put off living. We are all dreaming of some magical rose garden over the horizon, instead of enjoying the roses blooming outside our windows today." - Dale Carnegie
 ///
 "Take a chance! All life is a chance. The man who goes farthest is generally the one who is willing to do and dare." - Dale Carnegie
 ///
@@ -609,7 +609,7 @@
 ///
 "We stopped looking for monsters under our bed when we realized that they were inside us." - Charles Darwin
 ///
-"A scientific man ought to have no wishes, no affections—a mere heart of stone." - Charles Darwin
+"A scientific man ought to have no wishes, no affections; a mere heart of stone." - Charles Darwin
 ///
 "The survival of preservation of certain favored races in the struggle for life." - Charles Darwin
 ///
@@ -989,7 +989,7 @@ The pain of parting is nothing to the joy of meeting again." - Charles Dickens
 ///
 "The only way to make sense out of change is to plunge into it, move with it, and join the dance." - Richard Feynman
 ///
-"Whether you think you can, or you think you can’t—you’re right." - Henry Ford
+"Whether you think you can, or you think you can’t; you’re right." - Henry Ford
 ///
 "Coming together is a beginning, staying together is progress, and working together is success." - Henry Ford
 ///
@@ -1027,7 +1027,7 @@ The pain of parting is nothing to the joy of meeting again." - Charles Dickens
 ///
 "It has been my observation that most people get ahead during the time that others waste." - Henry Ford
 ///
-"Money is like an arm or leg—use it or lose it." - Henry Ford
+"Money is like an arm or leg; use it or lose it." - Henry Ford
 ///
 "Tell me and I forget, teach me and I may remember, involve me and I learn." - Benjamin Franklin
 ///
@@ -1121,7 +1121,7 @@ The pain of parting is nothing to the joy of meeting again." - Charles Dickens
 ///
 "Where the senses fail us, reason must step in." - Galileo Galilei
 ///
-"Philosophy is written in that great book which ever lies before our eyes—I mean the universe." - Galileo Galilei
+"Philosophy is written in that great book which ever lies before our eyes; I mean the universe." - Galileo Galilei
 ///
 "The sun, with all those planets revolving around it and depending on it, can still ripen a bunch of grapes as if it had nothing else in the universe to do." - Galileo Galilei
 ///
@@ -1213,7 +1213,7 @@ The pain of parting is nothing to the joy of meeting again." - Charles Dickens
 ///
 "Expectations are a form of first-class truth: If people believe it, it’s true." - Bill Gates
 ///
-"Effective philanthropy requires a lot of time and creativity—the same kind of focus and skills that building a business requires." - Bill Gates
+"Effective philanthropy requires a lot of time and creativity; the same kind of focus and skills that building a business requires." - Bill Gates
 ///
 "DNA is like a computer program but far, far more advanced than any software ever created." - Bill Gates
 ///
@@ -1771,7 +1771,7 @@ The pain of parting is nothing to the joy of meeting again." - Charles Dickens
 ///
 "We are all living in cages with the door wide open." - George Lucas
 ///
-"Don’t avoid the cliches—they are cliches because they work!" - George Lucas
+"Don’t avoid the cliches, they are cliches because they work!" - George Lucas
 ///
 "Everybody has talent, it’s just a matter of moving around until you’ve discovered what it is." - George Lucas
 ///
@@ -2071,7 +2071,7 @@ The pain of parting is nothing to the joy of meeting again." - Charles Dickens
 ///
 "The Lord is good to all; His compassion rests on all He has made." - Psalm 145:9
 ///
-"I lift up my eyes to the hills—where does my help come from? My help comes from the Lord, the Maker of heaven and earth." - Psalm 121:1,2
+"I lift up my eyes to the hills, where does my help come from? My help comes from the Lord, the Maker of heaven and earth." - Psalm 121:1,2
 ///
 "Taste and see that the Lord is good; blessed is the one who takes refuge in Him." - Psalm 34:8
 ///
@@ -2127,7 +2127,7 @@ The pain of parting is nothing to the joy of meeting again." - Charles Dickens
 ///
 "Next to doing the right thing, the most important thing is to let people know you are doing the right thing." - John D. Rockefeller
 ///
-"The most important thing for a young man is to establish credit—a reputation, character." - John D. Rockefeller
+"The most important thing for a young man is to establish credit, a reputation, character." - John D. Rockefeller
 ///
 "Save when you can and not when you have to." - John D. Rockefeller
 ///
@@ -2153,7 +2153,7 @@ The pain of parting is nothing to the joy of meeting again." - Charles Dickens
 ///
 "In the truest sense, freedom cannot be bestowed; it must be achieved." - Franklin D. Roosevelt
 ///
-"It is a terrible thing to look over your shoulder when you are trying to lead—and find no one there." - Franklin D. Roosevelt
+"It is a terrible thing to look over your shoulder when you are trying to lead, and find no one there." - Franklin D. Roosevelt
 ///
 "The virtues are lost in self-interest as rivers are lost in the sea." - Franklin D. Roosevelt
 ///
@@ -2491,8 +2491,6 @@ The pain of parting is nothing to the joy of meeting again." - Charles Dickens
 ///
 "I feel sorry for people who don’t drink. When they wake up in the morning, that’s as good as they’re going to feel all day." - Frank Sinatra
 ///
-"You can be the most artistically perfect performer in the world, but an audience is like a broad—if you’re indifferent, Endsville." - Frank Sinatra
-///
 "People often remark that I’m pretty lucky. Luck is only important in so far as getting the chance to sell yourself at the right moment. After that, you’ve got to have talent and know how to use it." - Frank Sinatra
 ///
 "What is the point of singing wonderful lyrics if the audience can’t understand what is being said or heard?" - Frank Sinatra
@@ -2505,7 +2503,7 @@ The pain of parting is nothing to the joy of meeting again." - Charles Dickens
 ///
 "The best is yet to come, and babe, won’t it be fine?" - Frank Sinatra
 ///
-"I would like to be remembered as a man who had a wonderful time living life, a man who had good friends, fine family—and I don’t think I could ask for anything more than that, actually." - Frank Sinatra
+"I would like to be remembered as a man who had a wonderful time living life, a man who had good friends, fine family, and I don’t think I could ask for anything more than that, actually." - Frank Sinatra
 ///
 "Whatever gets you through the night, that’s your ticket." - Frank Sinatra
 ///
@@ -2619,7 +2617,7 @@ The pain of parting is nothing to the joy of meeting again." - Charles Dickens
 ///
 "The hunger for love is much more difficult to remove than the hunger for bread." - Mother Teresa
 ///
-"Love begins by taking care of the closest ones—the ones at home." - Mother Teresa
+"Love begins by taking care of the closest ones, the ones at home." - Mother Teresa
 ///
 "God doesn’t require us to succeed; He only requires that you try." - Mother Teresa
 ///
