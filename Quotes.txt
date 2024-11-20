@@ -41,6 +41,46 @@
 ///
 "Receive without pride, let go without attachment." - Marcus Aurelius
 ///
+"Who is wise? One who learns from everyone, as it is said: 'From all my teachers I have grown wise.'" - Pirkei Avot 4:1
+///
+"Who is rich? One who is happy with what he has, as it is said: 'When you eat of the labor of your hands, you are happy, and it shall be well with you.'" - Pirkei Avot 4:1
+///
+"Who is strong? One who conquers his inclination, as it is said: 'He who is slow to anger is better than the mighty, and he who rules his spirit than he who takes a city.'" - Pirkei Avot 4:1
+///
+"Who is honored? One who honors others, as it is said: 'For those who honor Me, I will honor, and those who scorn Me shall be degraded.'" - Pirkei Avot 4:1
+///
+"If I am not for myself, who will be for me? And when I am for myself alone, what am I? And if not now, when?" - Pirkei Avot 1:14
+///
+"Make for yourself a mentor, acquire for yourself a friend, and judge every person favorably." - Pirkei Avot 1:6
+///
+"Say little and do much, and receive every person with a cheerful countenance." - Pirkei Avot 1:15
+///
+"Do not separate yourself from the community." - Pirkei Avot 2:4
+///
+"Do not say, 'When I have free time, I will study,' for perhaps you will never have free time." - Pirkei Avot 2:5
+///
+"It is not your duty to finish the work, but neither are you free to neglect it." - Pirkei Avot 2:16
+///
+"Turn it over and turn it over again, for everything is in it." (Referring to the Torah) - Pirkei Avot 5:22
+///
+"Jealousy, lust, and honor remove a person from the world." - Pirkei Avot 4:21
+///
+"Be bold as a leopard, light as an eagle, swift as a deer, and strong as a lion to do the will of your Father in Heaven." - Pirkei Avot 5:23
+///
+"In a place where there are no men, strive to be a man." - Pirkei Avot 2:6
+///
+"Silence is a fence for wisdom." - Pirkei Avot 3:13
+///
+"The more flesh, the more worms; the more property, the more worry; the more study, the more wisdom." - Pirkei Avot 2:8
+///
+"Do not judge your fellow until you have reached his place." - Pirkei Avot 2:4
+///
+"Envy, lust, and ambition shorten life." - Pirkei Avot 4:28
+///
+"Do not be quick to anger." - Pirkei Avot 2:10
+///
+"Against your will you were born, against your will you live, and against your will you die." - Pirkei Avot 4:22
+///
 "I was obliged to be industrious. Whoever is equally industrious will succeed equally well." - Johann Sebastian Bach
 ///
 "The aim and final end of all music should be none other than the glory of God and the refreshment of the soul." - Johann Sebastian Bach
@@ -2009,6 +2049,38 @@ The pain of parting is nothing to the joy of meeting again." - Charles Dickens
 ///
 "To err is human; to forgive, divine." - Alexander Pope
 ///
+"Be still, and know that I am God." - Psalm 46:10
+///
+"Cast your burden on the Lord, and He will sustain you." - Psalm 55:22
+///
+"The heavens declare the glory of God; the skies proclaim the work of His hands." - Psalm 19:1
+///
+"This is the day the Lord has made; let us rejoice and be glad in it." - Psalm 118:24
+///
+"Blessed is the man who walks not in the counsel of the wicked." - Psalm 1:1
+///
+"The Lord is close to the brokenhearted and saves those who are crushed in spirit." - Psalm 34:18
+///
+"Delight yourself in the Lord, and He will give you the desires of your heart." - Psalm 37:4
+///
+"From the rising of the sun to its setting, the name of the Lord is to be praised." - Psalm 113:3
+///
+"Turn away from evil and do good; seek peace and pursue it." - Psalm 34:14
+///
+"Better is one day in Your courts than a thousand elsewhere." - Psalm 84:10
+///
+"The Lord is good to all; His compassion rests on all He has made." - Psalm 145:9
+///
+"I lift up my eyes to the hills—where does my help come from? My help comes from the Lord, the Maker of heaven and earth." - Psalm 121:1,2
+///
+"Taste and see that the Lord is good; blessed is the one who takes refuge in Him." - Psalm 34:8
+///
+"The Lord is my strength and my shield; my heart trusts in Him, and He helps me." - Psalm 28:7
+///
+"Search me, God, and know my heart; test me and know my anxious thoughts." - Psalm 139:23
+///
+"The earth is the Lord’s, and everything in it, the world, and all who live in it." - Psalm 24:1
+///
 "It’s the moments that we question, that we dig deeper and find who we are." - Zat Rana
 ///
 "You are not here to fit in; you are here to stand out." - Zat Rana
@@ -2413,8 +2485,6 @@ The pain of parting is nothing to the joy of meeting again." - Charles Dickens
 ///
 "Fear is the enemy of logic." - Frank Sinatra
 ///
-"Basically, I’m for anything that gets you through the night—be it prayer, tranquilizers, or a bottle of Jack Daniels." - Frank Sinatra
-///
 "Dare to wear the foolish clown face." - Frank Sinatra
 ///
 "Don’t hide your scars. They make you who you are." - Frank Sinatra
@@ -2432,8 +2502,6 @@ The pain of parting is nothing to the joy of meeting again." - Charles Dickens
 "Whatever else has been said about me personally is unimportant. When I sing, I believe. I’m honest." - Frank Sinatra
 ///
 "I’m not one of those complicated, mixed-up cats. I’m not looking for the secret to life… I just go on from day to day, taking what comes." - Frank Sinatra
-///
-"May you live to be 100 and may the last voice you hear be mine." - Frank Sinatra
 ///
 "The best is yet to come, and babe, won’t it be fine?" - Frank Sinatra
 ///
