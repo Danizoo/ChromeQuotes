@@ -64,7 +64,10 @@
 ///
 "Receive without pride, let go without attachment." - Marcus Aurelius
 ///
-"Who is wise? One who learns from everyone, as it is said: 'From all my teachers I have grown wise. Who is rich? One who is happy with what he has, as it is said: 'When you eat of the labor of your hands, you are happy, and it shall be well with you. Who is strong? One who conquers his inclination, as it is said: 'He who is slow to anger is better than the mighty, and he who rules his spirit than he who takes a city. Who is honored? One who honors others, as it is said: 'For those who honor Me, I will honor, and those who scorn Me shall be degraded.'" - Pirkei Avot 4:1
+"Who is wise? One who learns from everyone, as it is said: 'From all my teachers I have grown wise.
+Who is rich? One who is happy with what he has, as it is said: 'When you eat of the labor of your hands, you are happy, and it shall be well with you.
+Who is strong? One who conquers his inclination, as it is said: 'He who is slow to anger is better than the mighty, and he who rules his spirit than he who takes a city.
+Who is honored? One who honors others, as it is said: 'For those who honor Me, I will honor, and those who scorn Me shall be degraded.'" - Pirkei Avot 4:1
 ///
 "If I am not for myself, who will be for me? And when I am for myself alone, what am I? And if not now, then when?" - Pirkei Avot 1:14
 ///
@@ -836,6 +839,8 @@ The pain of parting is nothing to the joy of meeting again." - Charles Dickens
 ///
 "Anyone who has never made a mistake has never tried anything new." - Albert Einstein
 ///
+“There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.” - Albert Einstein
+///
 "I have no special talent. I am only passionately curious." - Albert Einstein
 ///
 "A person who never made a mistake never tried anything new." - Albert Einstein
@@ -889,6 +894,8 @@ The pain of parting is nothing to the joy of meeting again." - Charles Dickens
 "Great spirits have always encountered violent opposition from mediocre minds." - Albert Einstein
 ///
 "Learn from yesterday, live for today, hope for tomorrow. The important thing is not to stop questioning." - Albert Einstein
+///
+"Creativity is intelligence having fun." - Albert Einstein
 ///
 "I am enough of an artist to draw freely upon my imagination. Imagination is more important than knowledge. Knowledge is limited. Imagination encircles the world." - Albert Einstein
 ///
@@ -1533,6 +1540,26 @@ The pain of parting is nothing to the joy of meeting again." - Charles Dickens
 "Whatever is rejected from the self, appears in the world as an event." - Carl Jung
 ///
 "Faith, hope, love, and insight are the highest achievements of human effort. They are found and given by experience." - Carl Jung
+///
+"Yesterday's the past, tomorrow's the future, but today is a gift. That's why it's called the present." - Bil Keane
+///
+"A hug is like a boomerang—you get it back right away." - Bil Keane
+///
+"They invented hugs to let people know you love them without saying anything." - Bil Keane
+///
+"Goal begins with 'GO.'" - Bil Keane
+///
+"A peaceful home is as sacred a place as any chapel or cathedral." - Bil Keane
+///
+"Today is a gift of God, which is why we call it the present." - Bil Keane
+///
+"I think it's a novelty for cartoon characters to cross over into another strip or panel occasionally." - Bil Keane
+///
+"We are, in the comics, the last frontier of good, wholesome family humor and entertainment." - Bil Keane
+///
+"OF COURSE I'd like to be the ideal mother. But I'm too busy raising children." - Bil Keane
+///
+"Sometimes I get the feeling that I'm stranded in the wrong time where love is just a lyric in a children's rhyme." - Bil Keane
 ///
 "Science is organized knowledge. Wisdom is organized life." - Immanuel Kant
 ///
@@ -3203,6 +3230,46 @@ The pain of parting is nothing to the joy of meeting again." - Charles Dickens
 "I trust that everything happens for a reason, even when we’re not wise enough to see it." - Oprah Winfrey
 ///
 "Create the highest, grandest vision possible for your life, because you become what you believe." - Oprah Winfrey
+///
+"Don’t let what you cannot do interfere with what you can do." - John Wooden
+///
+"Success is never final; failure is never fatal. It’s courage that counts." - John Wooden
+///
+"Things turn out best for the people who make the best of the way things turn out." - John Wooden
+///
+"Be true to yourself, help others, make each day your masterpiece, and drink deeply from good books." - John Wooden
+///
+"Do not let making a living prevent you from making a life." - John Wooden
+///
+"Success is peace of mind, which is a direct result of self satisfaction in knowing you made the effort to become the best you are capable of becoming." - John Wooden
+///
+"Make every day your masterpiece." - John Wooden
+///
+"Adversity is the state in which man most easily becomes acquainted with himself." - John Wooden
+///
+"The true test of a man’s character is what he does when no one is watching." - John Wooden
+///
+"Ability may get you to the top, but it takes character to keep you there." - John Wooden
+///
+"Talent is God-given. Be humble. Fame is man-given. Be grateful. Conceit is self-given. Be careful." - John Wooden
+///
+"Don’t measure yourself by what you have accomplished, but by what you should have accomplished with your ability." - John Wooden
+///
+"Discipline yourself, and others won’t need to." - John Wooden
+///
+"If you’re not making mistakes, then you’re not doing anything. I’m positive that a doer makes mistakes." - John Wooden
+///
+"It’s the little details that are vital. Little things make big things happen." - John Wooden
+///
+"Failing to prepare is preparing to fail." - John Wooden
+///
+"Happiness begins where selfishness ends." - John Wooden
+///
+"Never mistake activity for achievement." - John Wooden
+///
+"You can’t live a perfect day without doing something for someone who will never be able to repay you." - John Wooden
+///
+"Seek opportunities to show you care. The smallest gestures often make the biggest difference." - John Wooden
 ///
 "The longer I live, the more beautiful life becomes." - Frank Lloyd Wright
 ///
