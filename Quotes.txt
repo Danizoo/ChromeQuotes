@@ -1914,21 +1914,11 @@ The pain of parting is nothing to the joy of meeting again." - Charles Dickens
 ///
 "Science is bound, by the everlasting vow of honor, to face fearlessly every problem which can be fairly presented to it." - James Clerk Maxwell
 ///
-"All the mathematical sciences are founded on relations between physical laws and laws of numbers." - James Clerk Maxwell
-///
 "The aim of science is to reduce confusion to order." - James Clerk Maxwell
-///
-"One scientific epoch ended and another began with James Clerk Maxwell." - James Clerk Maxwell
 ///
 "Mathematical reasoning may be regarded rather schematically as the exercise of a combination of two facilities, which we may call intuition and ingenuity." - James Clerk Maxwell
 ///
-"The number of independent variables required to express the conditions of a single particle is the number of degrees of freedom of a particle." - James Clerk Maxwell
-///
-"All knowledge that is not the real work of intuition or ingenuity belongs to the realm of pseudoscience." - James Clerk Maxwell
-///
 "Science is done best when it is seen as a creative endeavor." - James Clerk Maxwell
-///
-"Let no one enter here who is not well-versed in mathematics." - James Clerk Maxwell
 ///
 "It is of great advantage to the student of any subject to read the original memoirs on that subject, for science is always most completely assimilated when it is in the nascent state." - James Clerk Maxwell
 ///
