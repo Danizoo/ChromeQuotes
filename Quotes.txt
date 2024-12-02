@@ -64,10 +64,7 @@
 ///
 "Receive without pride, let go without attachment." - Marcus Aurelius
 ///
-"Who is wise? One who learns from everyone, as it is said: 'From all my teachers I have grown wise.
-Who is rich? One who is happy with what he has, as it is said: 'When you eat of the labor of your hands, you are happy, and it shall be well with you.
-Who is strong? One who conquers his inclination, as it is said: 'He who is slow to anger is better than the mighty, and he who rules his spirit than he who takes a city.
-Who is honored? One who honors others, as it is said: 'For those who honor Me, I will honor, and those who scorn Me shall be degraded.'" - Pirkei Avot 4:1
+"Who is wise? One who learns from everyone, as it is said: 'From all my teachers I have grown wise. Who is rich? One who is happy with what he has, as it is said: 'When you eat of the labor of your hands, you are happy, and it shall be well with you. Who is strong? One who conquers his inclination, as it is said: 'He who is slow to anger is better than the mighty, and he who rules his spirit than he who takes a city. Who is honored? One who honors others, as it is said: 'For those who honor Me, I will honor, and those who scorn Me shall be degraded.'" - Pirkei Avot 4:1
 ///
 "If I am not for myself, who will be for me? And when I am for myself alone, what am I? And if not now, then when?" - Pirkei Avot 1:14
 ///
@@ -1897,15 +1894,11 @@ The pain of parting is nothing to the joy of meeting again." - Charles Dickens
 ///
 "If you want to be successful in a particular field, perseverance is one of the key qualities." - George Lucas
 ///
-"The secret to film is that it’s an illusion." - George Lucas
-///
 "The ability to speak does not make you intelligent." - George Lucas
 ///
 "Good luck has its storms." - George Lucas
 ///
 "Storytelling is about two things; it’s about character and plot." - George Lucas
-///
-"Even the smallest person can change the course of the future." - George Lucas
 ///
 "You have to find your own style and voice." - George Lucas
 ///
@@ -1928,8 +1921,6 @@ The pain of parting is nothing to the joy of meeting again." - Charles Dickens
 "One scientific epoch ended and another began with James Clerk Maxwell." - James Clerk Maxwell
 ///
 "Mathematical reasoning may be regarded rather schematically as the exercise of a combination of two facilities, which we may call intuition and ingenuity." - James Clerk Maxwell
-///
-"The mind of man has perplexed itself with many hard questions. Is space infinite, and infinite or finite in extent? Is the material universe infinite in extent or finite?" - James Clerk Maxwell
 ///
 "The number of independent variables required to express the conditions of a single particle is the number of degrees of freedom of a particle." - James Clerk Maxwell
 ///
@@ -2111,7 +2102,7 @@ The pain of parting is nothing to the joy of meeting again." - Charles Dickens
 ///
 "The more time and devotion one spends in the worship of false gods, the less he is able to spend in that of the true one." - Isaac Newton
 ///
-"He who thinks half-heartedly will not believe in God; but he who really thinks has to believe in God." - Isaac Newton
+"He who thinks half heartedly will not believe in God; but he who really thinks has to believe in God." - Isaac Newton
 ///
 "Truth is ever to be found in simplicity, and not in the multiplicity and confusion of things." - Isaac Newton
 ///
