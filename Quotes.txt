@@ -612,8 +612,6 @@
 ///
 "You cannot open a book without learning something." - Confucius
 ///
-"The will to win, the desire to succeed, the urge to reach your full potential... these are the keys that will unlock the door to personal excellence." - Confucius
-///
 "Success depends upon previous preparation, and without such preparation there is sure to be failure." - Confucius
 ///
 "He who knows all the answers has not been asked all the questions." - Confucius
