@@ -2570,7 +2570,7 @@ The pain of parting is nothing to the joy of meeting again." - Charles Dickens
 ///
 "It is a terrible thing to look over your shoulder when you are trying to lead, and find no one there." - Franklin D. Roosevelt
 ///
-"The virtues are lost in self-interest as rivers are lost in the sea." - Franklin D. Roosevelt
+"The virtues are lost in self interest as rivers are lost in the sea." - Franklin D. Roosevelt
 ///
 "The only thing worse than a dictator is a dictator in the making." - Franklin D. Roosevelt
 ///
