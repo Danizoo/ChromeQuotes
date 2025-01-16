@@ -22,6 +22,12 @@
 ///
 "Knowledge of the principles of science is the foundation of all true progress." - Archimedes
 ///
+"People who think they know everything are a great annoyance to those of us who do." - Isaac Asimov
+///
+"Violence is the last refuge of the incompetent." - Isaac Asimov
+///
+"Self-education is, I firmly believe, the only kind of education there is." - Isaac Asimov
+///
 "You have power over your mind, not outside events. Realize this, and you will find strength." - Marcus Aurelius
 ///
 "Do not waste time on what you cannot control." - Marcus Aurelius
