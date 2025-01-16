@@ -156,7 +156,7 @@
 ///
 "Big things start small." - Jeff Bezos
 ///
-"The great thing about fact-based decisions is that they overrule the hierarchy." - Jeff Bezos
+"The great thing about fact based decisions is that they overrule the hierarchy." - Jeff Bezos
 ///
 "A company shouldn’t get addicted to being shiny because shiny doesn’t last." - Jeff Bezos
 ///
