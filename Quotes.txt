@@ -1508,7 +1508,7 @@ The pain of parting is nothing to the joy of meeting again." - Charles Dickens
 ///
 "Design is not just what it looks like and feels like. Design is how it works." - Steve Jobs
 ///
-"I’m convinced that about half of what separates the successful entrepreneurs from the non-successful ones is pure perseverance." - Steve Jobs
+"I’m convinced that about half of what separates the successful entrepreneurs from the non successful ones is pure perseverance." - Steve Jobs
 ///
 "Great things in business are never done by one person. They’re done by a team of people." - Steve Jobs
 ///
