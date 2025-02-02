@@ -3526,7 +3526,7 @@ The pain of parting is nothing to the joy of meeting again." - Charles Dickens
 ///
 "Ability may get you to the top, but it takes character to keep you there." - John Wooden
 ///
-"Talent is God-given. Be humble. Fame is man-given. Be grateful. Conceit is self-given. Be careful." - John Wooden
+"Talent is God given. Be humble. Fame is man-given. Be grateful. Conceit is self-given. Be careful." - John Wooden
 ///
 "Don’t measure yourself by what you have accomplished, but by what you should have accomplished with your ability." - John Wooden
 ///
