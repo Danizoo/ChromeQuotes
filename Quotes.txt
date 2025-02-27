@@ -26,7 +26,7 @@
 ///
 "Violence is the last refuge of the incompetent." - Isaac Asimov
 ///
-"Self-education is, I firmly believe, the only kind of education there is." - Isaac Asimov
+"Self-educion is, I firmly believe, the only kind of educion there is." - Isaac Asimov
 ///
 "You have power over your mind, not outside events. Realize this, and you will find strength." - Marcus Aurelius
 ///
@@ -2728,7 +2728,7 @@ The pain of parting is nothing to the joy of meeting again." - Charles Dickens
 ///
 "Big jobs usually go to the men who prove their ability to outgrow small ones." - Theodore Roosevelt
 ///
-"The things that will destroy America are prosperity-at-any-price, peace-at-any-price, safety-first instead of duty-first, the love of soft living, and the get-rich-quick theory of life." - Theodore Roosevelt
+"The things that will destroy America are prosperity at any price, peace at any price, safety first instead of duty first, the love of soft living, and the get-rich-quick theory of life." - Theodore Roosevelt
 ///
 "I am a part of everything that I have read." - Theodore Roosevelt
 ///
