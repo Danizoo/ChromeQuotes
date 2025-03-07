@@ -28,6 +28,8 @@
 ///
 "Self-educion is, I firmly believe, the only kind of educion there is." - Isaac Asimov
 ///
+"The impediment to action advances action, what stands in the way becomes the way." - Marcus Aurelius, Meditations.
+///
 "You have power over your mind, not outside events. Realize this, and you will find strength." - Marcus Aurelius
 ///
 "Do not waste time on what you cannot control." - Marcus Aurelius
