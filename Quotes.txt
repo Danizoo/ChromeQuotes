@@ -1362,7 +1362,7 @@ The pain of parting is nothing to the joy of meeting again." - Charles Dickens
 ///
 "Discrimination has a lot of layers that make it tough for minorities to get a leg up." - Bill Gates
 ///
-"Expectations are a form of first-class truth: If people believe it, it’s true." - Bill Gates
+"Expectations are a form of first class truth: If people believe it, it’s true." - Bill Gates
 ///
 "Effective philanthropy requires a lot of time and creativity; the same kind of focus and skills that building a business requires." - Bill Gates
 ///
