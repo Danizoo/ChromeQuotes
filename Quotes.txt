@@ -208,6 +208,10 @@
 ///
 "Anyone who is not shocked by quantum theory has not understood it." - Niels Bohr
 ///
+"All models are wrong, but some are useful." - George E.P. Box
+///
+"Discovering the unexpected is more important than confirming the known." - George E.P. Box
+///
 "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment." - Buddha
 ///
 "The mind is everything. What you think you become." - Buddha
@@ -3711,3 +3715,4 @@ undeserving people." - Charlie Munger
 ///
 "Those who realize their folly are not true fools." - Zhuang Zhou
 ///
+
